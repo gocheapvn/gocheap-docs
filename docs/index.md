@@ -1,17 +1,11 @@
-# Welcome to MkDocs
+# Hướng dẫn sử dụng GOCheap 🚖
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+Chào mừng bạn đến với **docs.gocheap.vn** – cẩm nang chính thức của GOCheap.  
 
-## Commands
+Tại đây, bạn sẽ tìm thấy:
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
+- 📱 **Khách hàng**: Hướng dẫn cài đặt ứng dụng, thuê tài xế, thanh toán, chính sách dịch vụ.  
+- 🚗 **Đối tác Lái xe**: Thủ tục hợp tác, hợp đồng, cách sử dụng ứng dụng, chỉ dẫn dịch vụ, văn hóa công ty.  
+- 🤝 **Thông tin hỗ trợ chung**: Liên hệ, bảo mật, điều khoản dịch vụ.  
 
-## Project layout
-
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+👉 Hãy chọn danh mục phù hợp để bắt đầu.  

@@ -1,15 +1,31 @@
-site_name: Hướng Dẫn GoCheap
+site_name: Hướng dẫn sử dụng GOCheap!
+site_url: https://docs.gocheap.vn
+site_description: Cẩm nang hướng dẫn sử dụng GOCheap dành cho đối tác tài xế và khách hàng
 theme:
   name: material
-  palette:
-    primary: teal
-    accent: orange
   language: vi
+  features:
+    - navigation.tabs
+    - navigation.sections
+    - search.highlight
+    - content.code.copy
 nav:
-  - Trang Chủ: index.md
-  - Hướng Dẫn Khách Hàng:
-      - Đặt Xe: customer/booking.md
-      - Thanh Toán: customer/payment.md
-  - Hướng Dẫn Tài Xế:
-      - Đăng Ký: driver/register.md
-      - Nhận Cuốc: driver/trips.md
+  - Trang chủ: index.md
+  - Giới thiệu: gioi-thieu.md
+  - Đối tác Tài xế:
+      - Thủ tục hợp tác: tai-xe/thu-tuc-hop-tac.md
+      - Hợp đồng & Quy định: tai-xe/hop-dong.md
+      - Hướng dẫn sử dụng App: tai-xe/huong-dan-su-dung-app.md
+      - Dịch vụ & Chính sách: tai-xe/dich-vu.md
+      - Văn hóa công ty: tai-xe/van-hoa-gocheap.md
+      - Câu hỏi thường gặp: tai-xe/cau-hoi-thuong-gap.md
+  - Khách hàng:
+      - Cài đặt & Đăng ký: khach-hang/cai-dat-app.md
+      - Đặt xe: khach-hang/dat-xe.md
+      - Thanh toán: khach-hang/thanh-toan.md
+      - Dịch vụ: khach-hang/dich-vu.md
+      - Câu hỏi thường gặp: khach-hang/cau-hoi-thuong-gap.md
+  - Hỗ trợ:
+      - Liên hệ: ho-tro/lien-he.md
+      - Bảo mật: ho-tro/bao-mat.md
+      - Điều khoản dịch vụ: ho-tro/dieu-khoan.md
