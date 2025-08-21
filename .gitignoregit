@@ -1,0 +1,1 @@
+site/  add .gitignoregit commit -m "Add site to .gitignore"git push origin main
