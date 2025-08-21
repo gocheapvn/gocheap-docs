@@ -1,0 +1,15 @@
+site_name: Hướng Dẫn GoCheap
+theme:
+  name: material
+  palette:
+    primary: teal
+    accent: orange
+  language: vi
+nav:
+  - Trang Chủ: index.md
+  - Hướng Dẫn Khách Hàng:
+      - Đặt Xe: customer/booking.md
+      - Thanh Toán: customer/payment.md
+  - Hướng Dẫn Tài Xế:
+      - Đăng Ký: driver/register.md
+      - Nhận Cuốc: driver/trips.md
