@@ -12,20 +12,20 @@ theme:
 nav:
   - Trang chủ: index.md
   - Giới thiệu: gioi-thieu.md
-  - Đối tác Tài xế:
+  - Đối tác:
       - Thủ tục hợp tác: tai-xe/thu-tuc-hop-tac.md
       - Hợp đồng & Quy định: tai-xe/hop-dong.md
-      - Hướng dẫn sử dụng App: tai-xe/huong-dan-su-dung-app.md
+      - Hướng dẫn sử dụng: tai-xe/huong-dan-su-dung-app.md
       - Dịch vụ & Chính sách: tai-xe/dich-vu.md
       - Văn hóa công ty: tai-xe/van-hoa-gocheap.md
       - Câu hỏi thường gặp: tai-xe/cau-hoi-thuong-gap.md
   - Khách hàng:
-      - Cài đặt & Đăng ký: khach-hang/cai-dat-app.md
+      - Cài đặt: khach-hang/cai-dat-app.md
       - Thuê lái xe: khach-hang/thue-tai-xe.md
       - Thanh toán: khach-hang/thanh-toan.md
       - Dịch vụ: khach-hang/dich-vu.md
-      - Câu hỏi thường gặp: khach-hang/cau-hoi-thuong-gap.md
+      - Câu hỏi: khach-hang/cau-hoi-thuong-gap.md
   - Hỗ trợ:
       - Liên hệ: ho-tro/lien-he.md
       - Bảo mật: ho-tro/bao-mat.md
-      - Điều khoản dịch vụ: ho-tro/dieu-khoan.md
+      - Điều khoản: ho-tro/dieu-khoan.md
