@@ -3,14 +3,14 @@ site_url: https://gocheap.vn
 site_description: Cẩm nang hướng dẫn sử dụng GOCheap dành cho đối tác tài xế và khách hàng
 theme:
   name: material
-extra_javascript:
-  - js/custom.js
+  custom_dir: overrides  # Sử dụng template tùy chỉnh
   palette:
     primary: purple
     accent: orange
   language: vi
   logo: images/gocheap-logo.png
-  custom_dir: overrides  # Sử dụng template tùy chỉnh
+extra_javascript:
+  - js/custom.js
 extra_css:
   - assets/css/custom.css  # CSS tùy chỉnh cho footer
 extra:
