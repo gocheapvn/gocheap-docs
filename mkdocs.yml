@@ -36,3 +36,5 @@ nav:
       - Điều khoản: ho-tro/dieu-khoan.md    
 extra_css:
   - assets/css/custom.css
+extra:
+  generator: false
