@@ -1,20 +1,26 @@
-/* Ghi đè footer mặc định */
-.md-footer.custom-footer {
-  background-color: var(--md-primary-fg-color); /* dùng màu primary */
-  padding: 1rem;
+/* Footer full width */
+.custom-footer {
+  width: 100%;
+  background-color: var(--md-primary-fg-color); /* màu tím primary */
+  padding: 1rem 0;
   text-align: center;
+  position: relative;
 }
 
-.md-footer.custom-footer p {
+/* Chữ trắng, in đậm */
+.custom-footer p {
   margin: 0;
   font-weight: bold;
+  color: orange;
+  font-size: 1.1rem;
 }
 
-.md-footer.custom-footer a {
-  color: #F5940C !important;  /* ép thành trắng */
+/* Link trắng */
+.custom-footer a {
+  color: orange !important;
   text-decoration: none;
 }
 
-.md-footer.custom-footer a:hover {
+.custom-footer a:hover {
   text-decoration: underline;
 }
