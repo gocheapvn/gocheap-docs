@@ -1,16 +1,23 @@
-/* Căn giữa dòng chữ trong footer */
-.md-footer-custom {
+/* ghi đè style footer mặc định */
+.md-footer__inner.custom-footer {
+  background-color: var(--md-primary-fg-color); /* màu tím primary */
+  width: 100%;
   text-align: center;
-  padding: 6px 0;
-  background-color: #AB47BC; /* Màu purple của theme */
+  padding: 1rem 0;
 }
 
-/* Đảm bảo màu chữ nổi bật trên nền purple */
-.md-footer-custom a {
-  color: #FFFFFF; /* Chữ trắng để nổi trên nền purple */
+/* chữ/link */
+.md-footer__inner.custom-footer p {
+  margin: 0;
+  font-weight: bold;
+  font-size: 1.1rem;
+}
+
+.md-footer__inner.custom-footer a {
+  color: orange !important;
   text-decoration: none;
 }
 
-.md-footer-custom a:hover {
-  color: #E0E0E0; /* Chữ nhạt hơn khi hover */
+.md-footer__inner.custom-footer a:hover {
+  text-decoration: underline;
 }
