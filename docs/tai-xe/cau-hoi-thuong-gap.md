@@ -6,7 +6,7 @@ Không, hợp đồng điện tử là đủ.
 **Q2: Khi nào tôi nhận được tiền?**  
 Bạn có thể rút tiền từ ví bất cứ lúc nào và nhận tiền vào ngày các 10 - 20 - 30 hàng tháng 
 
-**Q3. [Nghề lái xe hộ](https://gocheap.vn/about/chung-chi-hanh-nghe-lai-xe-ho-gocheap-viet-nam){target="_blank"} là gì và tại sao lại phát triển mạnh mẽ?**
+**Q3. <a href="https://gocheap.vn/about/chung-chi-hanh-nghe-lai-xe-ho-gocheap-viet-nam" target="_blank">Nghề lái xe hộ</a> là gì và tại sao lại phát triển mạnh mẽ?**
 
 *   **Khái niệm**: Lái xe hộ là một dịch vụ mà **tài xế đến tận nơi đón khách và điều khiển chính phương tiện của khách hàng** (có thể là xe máy hoặc ô tô) để đưa khách hàng đến đích an toàn.
 *   **Nhu cầu thực tế**: Nghề này ra đời để đáp ứng nhu cầu của những khách hàng đã sử dụng rượu bia, người lớn tuổi không tiện tự lái, hoặc những người bận rộn cần được hỗ trợ di chuyển. Đặc biệt, dịch vụ lái xe hộ cho người say đã trở nên phổ biến sau khi Nghị định số 100/2019/NĐ-CP được ban hành, tăng cường xử lý nghiêm các trường hợp vi phạm nồng độ cồn khi lái xe.
