@@ -3,7 +3,7 @@ site_url: https://gocheap.vn
 site_description: Cẩm nang hướng dẫn sử dụng GOCheap dành cho đối tác tài xế và khách hàng
 theme:
   name: material
-  custom_dir: overrides  # Chỉ định thư mục overrides
+  custom_dir: docs/overrides  # Chỉ định thư mục overrides
   palette:
     primary: purple
     accent: orange
@@ -35,11 +35,5 @@ nav:
       - Bảo mật: ho-tro/bao-mat.md
       - Điều khoản: ho-tro/dieu-khoan.md
       
-extra:
-  generator: false
-  social:
-    - icon: fontawesome/solid/car-side
-      link: https://gocheap.vn/driverx
-      name: Dịch vụ lái xe hộ GOCheap!
 extra_css:
   - assets/css/custom.css
