@@ -9,17 +9,18 @@ theme:
     accent: orange
   language: vi
   logo: images/gocheap-logo.png
+features:
+    - navigation.tabs
+    - navigation.sections
+    - search.highlight
+    - content.code.copy
 extra_javascript:
   - js/custom.js
 extra_css:
   - assets/css/custom.css  # CSS tùy chỉnh cho footer
 extra:
   generator: false   # ẩn "Made with Material for MkDocs"
-features:
-    - navigation.tabs
-    - navigation.sections
-    - search.highlight
-    - content.code.copy
+
 nav:
   - Trang chủ: index.md
   - Giới thiệu: gioi-thieu.md
