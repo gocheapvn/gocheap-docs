@@ -1,16 +1,20 @@
-/* Căn giữa dòng chữ trong footer */
-.md-footer-custom {
+.custom-footer {
+  background-color: var(--md-primary-fg-color); /* màu tím primary */
+  padding: 1rem;
   text-align: center;
-  padding: 10px 0;
-  background-color: #AB47BC;
 }
 
-/* Đảm bảo màu chữ nổi bật (tùy chọn) */
-.md-footer-custom a {
-  color: #F5940C; /* Màu tím, có thể thay đổi */
+.custom-footer p {
+  margin: 0;
+  font-weight: bold;
+  color: white;
+}
+
+.custom-footer a {
+  color: white;
   text-decoration: none;
 }
 
-.md-footer-custom a:hover {
-  color: #9C27B0; /* Màu tím đậm hơn khi hover */
+.custom-footer a:hover {
+  text-decoration: underline;
 }
