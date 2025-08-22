@@ -1,19 +1,16 @@
-/* Thiết kế nút và căn giữa */
+/* Căn giữa dòng chữ trong footer */
 .md-footer-custom {
   text-align: center;
   padding: 10px 0;
+  background-color: #AB47BC;
 }
 
-.md-footer-button {
-  display: inline-block;
-  padding: 8px 16px;
-  background-color: #F5940C; /* Màu tím cho nút */
-  color: #FFFFFF; /* Chữ trắng trên nút */
+/* Đảm bảo màu chữ nổi bật (tùy chọn) */
+.md-footer-custom a {
+  color: #F5940C; /* Màu tím, có thể thay đổi */
   text-decoration: none;
-  border-radius: 4px;
-  font-weight: bold;
 }
 
-.md-footer-button:hover {
-  background-color: #9C27B0; /* Màu tím đậm hơn khi hover */
+.md-footer-custom a:hover {
+  color: #9C27B0; /* Màu tím đậm hơn khi hover */
 }
