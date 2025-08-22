@@ -33,7 +33,6 @@ nav:
   - Hỗ trợ:
       - Liên hệ: ho-tro/lien-he.md
       - Bảo mật: ho-tro/bao-mat.md
-      - Điều khoản: ho-tro/dieu-khoan.md
-      
+      - Điều khoản: ho-tro/dieu-khoan.md    
 extra_css:
   - assets/css/custom.css
