@@ -15,11 +15,7 @@ extra_css:
   - assets/css/custom.css  # CSS tùy chỉnh cho footer
 extra:
   generator: false   # ẩn "Made with Material for MkDocs"
-  social:
-    - icon: fontawesome/solid/car
-      link: https://gocheap.vn/driverx
-      name: "Dịch vụ lái xe hộ GOCheap!"
-  features:
+features:
     - navigation.tabs
     - navigation.sections
     - search.highlight
