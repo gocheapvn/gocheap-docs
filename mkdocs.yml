@@ -9,7 +9,7 @@ theme:
     accent: orange
   language: vi
   logo: images/gocheap-logo.png
-features:
+  features:
     - navigation.tabs
     - navigation.sections
     - search.highlight
