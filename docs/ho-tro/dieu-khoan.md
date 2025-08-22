@@ -3,3 +3,5 @@
 - Khi sử dụng dịch vụ, khách hàng và tài xế đồng ý tuân thủ các điều khoản này.  
 - GOCheap có quyền cập nhật điều khoản mà không cần thông báo trước.  
 - Mọi tranh chấp sẽ được giải quyết theo pháp luật Việt Nam.  
+
+Xem thêm nội dung chi tiết tại: https://gocheap.vn/dieu-khoan-va-quy-dinh-chung
