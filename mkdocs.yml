@@ -8,7 +8,7 @@ theme:
     accent: orange
   language: vi
   logo: images/gocheap-logo.png
-theme.custom_dir: docs/overrides  # Sử dụng template tùy chỉnh
+  custom_dir: docs/overrides  # Sử dụng template tùy chỉnh
 extra_css:
   - assets/css/custom.css  # CSS tùy chỉnh cho footer
 extra:
