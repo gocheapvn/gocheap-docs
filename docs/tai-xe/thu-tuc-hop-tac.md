@@ -22,4 +22,4 @@
 ## 4. Hỗ trợ
 - Hotline 24/7: 02473001022  
 - Email: hotro@gocheap.vn  
-- Zalo: https://zalo.me/4028924167539517140
+- Zalo: https://gocheap.vn/zalo
