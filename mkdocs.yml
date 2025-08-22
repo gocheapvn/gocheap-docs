@@ -3,7 +3,7 @@ site_url: https://gocheap.vn
 site_description: Cẩm nang hướng dẫn sử dụng GOCheap dành cho đối tác tài xế và khách hàng
 theme:
   name: material
-  custom_dir: overrides  # Chỉ định thư mục overrides
+  custom_dir: docs/overrides  # Chỉ định thư mục overrides
 extra_css:
   - assets/css/custom.css
 extra:
