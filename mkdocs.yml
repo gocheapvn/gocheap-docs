@@ -3,6 +3,8 @@ site_url: https://gocheap.vn
 site_description: Cẩm nang hướng dẫn sử dụng GOCheap dành cho đối tác tài xế và khách hàng
 theme:
   name: material
+extra_javascript:
+  - js/custom.js
   palette:
     primary: purple
     accent: orange
@@ -12,7 +14,11 @@ theme:
 extra_css:
   - assets/css/custom.css  # CSS tùy chỉnh cho footer
 extra:
-  generator: false  # Tắt dòng "Made with MkDocs"
+  generator: false   # ẩn "Made with Material for MkDocs"
+  social:
+    - icon: fontawesome/solid/car
+      link: https://gocheap.vn/driverx
+      name: "Dịch vụ lái xe hộ GOCheap!"
   features:
     - navigation.tabs
     - navigation.sections
