@@ -37,6 +37,5 @@ nav:
 extra:
   generator: false  # Tắt dòng "Made with MkDocs" mặc định
   social:
-    - icon: fontawesome/solid/car-side  # Biểu tượng xe (tùy chọn)
-      link: https://gocheap.vn/driverx
+    - link: https://gocheap.vn/driverx
       name: Dịch vụ lái xe hộ GOCheap!
