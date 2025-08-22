@@ -1,0 +1,14 @@
+/* Đặt footer màu đen */
+.md-footer {
+  background-color: #F5940C; /* Màu đen */
+}
+
+/* Đặt màu chữ và icon trong footer thành tím */
+.md-footer-social a {
+  color: #AB47BC; /* Màu tím, thay bằng mã hex khác nếu muốn */
+}
+
+/* Đảm bảo icon hiển thị đúng */
+.md-footer-social svg {
+  fill: #AB47BC; /* Màu tím cho icon */
+}
