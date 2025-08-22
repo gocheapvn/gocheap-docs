@@ -9,7 +9,7 @@
 **Q3. Tài xế có chờ sẵn khi tôi chưa ra khỏi quán không?**
    **Tài xế sẽ đợi trong thời gian hợp lý**. Tuy nhiên, bạn nên báo trước để không phát sinh chi phí chờ.
 
-**Q4. Dịch vụ lái xe hộ cho người say là gì?**
+**Q4. [Dịch vụ lái xe hộ cho người say](https://www.vietnamplus.vn/dich-vu-cho-thue-tai-xe-driverx-gop-suc-vi-su-an-toan-cua-cong-dong/749764.vnp){target="_blank"} là gì?**
    Lái xe thuê cho người say là dịch vụ dành cho những người đã uống rượu bia. Khách hàng chỉ cần tải ứng dụng và đặt Lái xe, tài xế sẽ đến đón và lái chính chiếc xe của khách hàng về nhà. Dịch vụ này giúp đảm bảo an toàn cho bản thân và những người đi đường khác.
 
 **Q5. Khi nào nên sử dụng dịch vụ lái xe hộ?**

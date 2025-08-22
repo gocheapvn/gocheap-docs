@@ -8,4 +8,4 @@ Tại đây, bạn sẽ tìm thấy:
 - 🚗 **Đối tác Lái xe**: Thủ tục hợp tác, hợp đồng, cách sử dụng ứng dụng, chỉ dẫn dịch vụ, văn hóa công ty.  
 - 🤝 **Thông tin hỗ trợ chung**: Liên hệ, bảo mật, điều khoản dịch vụ.  
 
-👉 Hãy chọn danh mục phù hợp để bắt đầu hoặc xem VTV nói về [dịch vụ lái xe hộ GOCheap!](https://vtv.vn/video/lai-xe-ho-cho-nguoi-uong-ruou-bia-dich-vu-hot-dip-tet-600218.htm)
+👉 Hãy chọn danh mục phù hợp để bắt đầu hoặc xem VTV nói về [dịch vụ lái xe hộ GOCheap!](https://vtv.vn/video/lai-xe-ho-cho-nguoi-uong-ruou-bia-dich-vu-hot-dip-tet-600218.htm){target="_blank"}
