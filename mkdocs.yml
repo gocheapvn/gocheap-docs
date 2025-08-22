@@ -1,10 +1,10 @@
 site_name: Hướng dẫn sử dụng GOCheap!
-site_url: https://gocheap.vn/driverx
+site_url: https://gocheap.vn
 site_description: Cẩm nang hướng dẫn sử dụng GOCheap dành cho đối tác tài xế và khách hàng
 theme:
   name: material
   palette:
-    primary: teal
+    primary: purple
     accent: orange
   language: vi
   logo: images/gocheap-logo.png
@@ -33,3 +33,10 @@ nav:
       - Liên hệ: ho-tro/lien-he.md
       - Bảo mật: ho-tro/bao-mat.md
       - Điều khoản: ho-tro/dieu-khoan.md
+      
+extra:
+  generator: false  # Tắt dòng "Made with MkDocs" mặc định
+  social:
+    - icon: fontawesome/solid/car-side  # Biểu tượng xe (tùy chọn)
+      link: https://gocheap.vn/driverx
+      name: Dịch vụ lái xe hộ GOCheap!
