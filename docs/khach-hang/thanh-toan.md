@@ -1,13 +1,12 @@
 # Thanh toán trên GOCheap
 
-## 1. Hình thức thanh toán
-- Tiền mặt.  
-- Chuyển khoản.  
-- Thẻ ngân hàng (Visa/Master/JCB).  
+# Thanh toán
 
-## 2. Hoá đơn
-- Khách hàng có thể yêu cầu xuất hoá đơn điện tử.  
+GOCheap! hỗ trợ nhiều hình thức:
 
-## 3. Chính sách hủy chuyến
-- Hủy trước khi tài xế nhận: miễn phí.  
-- Hủy sau khi tài xế nhận: phí hủy (đang nghiên cứu)  
+- 💵 Tiền mặt
+- 📱 QR Code
+- 💳 Chuyển khoản trực tiếp cho tài xế
+
+📌 Khi tài xế kết thúc chuyến ➝ bạn thanh toán và có thể để lại **đánh giá tài xế**.
+

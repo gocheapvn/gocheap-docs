@@ -7,3 +7,4 @@
 5. Nhấn **Đặt xe/Thuê tài xế** và chờ tài xế đến.  
 
 💡 Mẹo: Đặt xe sớm hơn 15-30 phút để chủ động thời gian.  
+--> <a href="https://gocheap.vn/quy-tac-ung-xu" target="_blank">Quy tắc ứng xử</a>

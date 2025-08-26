@@ -23,3 +23,4 @@
 - Hotline 24/7: 02473001022  
 - Email: hotro@gocheap.vn  
 - Zalo: https://gocheap.vn/zalo
+- <a href="https://gocheap.vn/quy-tac-ung-xu" target="_blank">Quy tắc ứng xử</a>
