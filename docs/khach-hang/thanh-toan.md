@@ -1,7 +1,5 @@
 # Thanh toán trên GOCheap
 
-# Thanh toán
-
 GOCheap! hỗ trợ nhiều hình thức:
 
 - 💵 Tiền mặt

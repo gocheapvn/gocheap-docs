@@ -1,7 +1,5 @@
 # Hướng dẫn sử dụng ứng dụng GOCheap DriverX
 
-# GOCheap DriverX! - Hướng dẫn sử dụng
-
 Ứng dụng <a href="https://gocheap.vn/taixe">GOCheap Tai xế VIP ! dành cho đối tác tài xế</a>.
 
 - Quản lý trạng thái hoạt động, nhận chuyến, hoàn thành chuyến.

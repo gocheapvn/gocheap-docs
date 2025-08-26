@@ -1,7 +1,5 @@
 # Cài đặt & Đăng ký ứng dụng GOCheap
 
-# GOCheap! - Hướng dẫn sử dụng
-
 GOCheap! Lái xe hộ là ứng dụng thuê tài xế hộ, giúp bạn di chuyển **an toàn – tiện lợi – thông minh**.
 
 - Đặt tài xế lái hộ ô tô, xe máy, taxi sân bay.

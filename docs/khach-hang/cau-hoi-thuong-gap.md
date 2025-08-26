@@ -12,7 +12,7 @@
 ##4. Làm sao đổi điểm lấy quà? 
 - Vào mục **Tích điểm đổi quà** trong tab Tài khoản.
 
-##5. Tôi cần hỗ trợ gấp?**  
+##5. Tôi cần hỗ trợ gấp?
 - Liên hệ **Trung tâm hỗ trợ (Zalo OA)** hoặc gọi hotline 02463000636
 
 ## Q1. Tôi có phải đưa giấy tờ xe cho tài xế không?
