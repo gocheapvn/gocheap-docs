@@ -9,7 +9,6 @@
 
 👉 Cài app để bắt đầu trở thành tài xế đối tác GOCheap.
 
-
 # Cài đặt & Đăng nhập
 
 ## Onboard
@@ -31,7 +30,7 @@
 # Nhận & Thực hiện chuyến
 
 ## Điều kiện nhận chuyến
-- Ví cá nhân ≥ **500.000đ**. (với mỗi hạng khác nhau quy đinh có khac nhau, hạng NEW không yêu cầu số dư tôi thiểu)
+- Ví cá nhân ≥ **500.000đ**. (với mỗi hạng khác nhau quy định có khác nhau, hạng NEW không yêu cầu số dư tối thiểu)
 - Bật **Trạng thái sẵn sàng** trên app.
 
 ## Quy trình
@@ -49,7 +48,6 @@
 - Hủy chuyến bắt buộc nhập lý do.
 
 # Ví cá nhân
-
 Ví cá nhân hiển thị số dư để mua chuyến & rút tiền.
 
 ## Nạp tiền
@@ -67,9 +65,7 @@ Ví cá nhân hiển thị số dư để mua chuyến & rút tiền.
    (Nếu trùng cuối tuần/lễ ➝ chuyển sang ngày kế tiếp).
 
 # Hồ sơ & Tài khoản
-
 Trong tab **Tài khoản**, tài xế có thể:
-
 - 👤 **Chỉnh sửa hồ sơ**: cập nhật ảnh, họ tên, ngày sinh, email, chỗ ở.
 - 🔑 **Đổi mật khẩu**: nhập mật khẩu cũ + mật khẩu mới.
 - 📊 **Thống kê**: xem số chuyến, thu nhập theo ngày/tuần/tháng.
@@ -77,7 +73,6 @@ Trong tab **Tài khoản**, tài xế có thể:
 - 🚪 **Đăng xuất**.
 
 ## Thông báo
-
 Các loại thông báo:
 - 💰 Giao dịch (nạp/rút tiền, số dư).
 - 🚖 Chuyến xe (đã nhận, đã hoàn thành, hủy).
@@ -87,7 +82,6 @@ Các loại thông báo:
 - Thông báo **đã đọc**: màu xám.
 
 # Chuyển lịch (Tạo chuyến cho khách)
-
 - Tài xế có thể tự tạo chuyến cho khách hàng.
 - Nhập thông tin:
   - Điểm đón, điểm đến

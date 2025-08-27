@@ -11,7 +11,6 @@ GOCheap! Lái xe hộ là ứng dụng thuê tài xế hộ, giúp bạn di chuy
 👉 <a href="https://gocheap.vn/ungdung">Tải app</a> trên **App Store** và **Google Play** để bắt đầu.
 
 # Cài đặt ứng dụng
-
 1. Tải GOCheap! Lái xe hộ từ **App Store** hoặc **Google Play**.
 2. Mở app lần đầu ➝ cấp quyền:
    - Vị trí (GPS) để lấy điểm đón nhanh.
@@ -23,7 +22,6 @@ GOCheap! Lái xe hộ là ứng dụng thuê tài xế hộ, giúp bạn di chuy
 ✅ Xong! Bạn đã sẵn sàng đặt tài xế.
 
 # Quản lý tài khoản
-
 Trong mục **Tài khoản**, bạn có thể:
 
 - 👤 **Thông tin cá nhân**: cập nhật tên, email, ngày sinh, giới tính.
@@ -37,7 +35,6 @@ Trong mục **Tài khoản**, bạn có thể:
 - 🔐 **Đăng xuất**.
 
 # Thông báo
-
 - Cập nhật chuyến đi.
 - Thông tin tích điểm, đổi quà.
 - Ưu đãi, khuyến mãi, sự kiện.
