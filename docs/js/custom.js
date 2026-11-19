@@ -1,15 +1,21 @@
 document.addEventListener("DOMContentLoaded", () => {
+  const searchInput = document.querySelector("[data-md-component='search-query']");
+  if (!searchInput) return;
+
+  // Material listens for keyup. Paste and mobile input can change the value without it.
+  const refreshResults = () => searchInput.dispatchEvent(new Event("keyup"));
+  searchInput.addEventListener("input", (event) => {
+    if (!event.isComposing) refreshResults();
+  });
+  searchInput.addEventListener("compositionend", refreshResults);
+
   const searchButton = document.querySelector(".help-search");
   const searchToggle = document.getElementById("__search");
-  const searchInput = document.querySelector("[data-md-component='search-query']");
+  if (!searchButton || !searchToggle) return;
 
-  if (searchButton && searchToggle && searchInput) {
-    searchButton.hidden = false;
-    searchButton.addEventListener("click", () => {
-      if (!searchToggle.checked) {
-        searchToggle.click();
-      }
-      searchInput.focus();
-    });
-  }
+  searchButton.hidden = false;
+  searchButton.addEventListener("click", () => {
+    if (!searchToggle.checked) searchToggle.click();
+    searchInput.focus();
+  });
 });
