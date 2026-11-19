@@ -1,20 +1,71 @@
-# Đặt tài xế và đặt xe
+---
+document_id: KH03
+title: Hướng dẫn đặt tài xế lái xe hộ GO’Cheap DriverX
+category: customer
+audience: customer
+visibility: public
+language: vi-VN
+slug: khach-hang/thue-tai-xe
+version: '1.0'
+status: published
+owner: Customer Experience
+seo_title: Hướng dẫn đặt tài xế lái xe hộ GO’Cheap DriverX | GO’Cheap
+meta_description: Các bước đặt tài xế lái xe hộ, kiểm tra thông tin tài xế và báo giá, chuẩn bị xe tại điểm đón và xác nhận kết thúc
+  chuyến.
+related_documents:
+- KH07
+- KH08
+- CS06
+published_date: '2026-11-20'
+---
 
-Bạn có thể đặt tài xế lái xe của mình hoặc chọn dịch vụ có sẵn xe và tài xế. Xem [các dịch vụ dành cho khách hàng](dich-vu.md) trước khi đặt.
+# Hướng dẫn đặt tài xế lái xe hộ GO’Cheap DriverX
 
-## 1. Đi ngay
-- Nhập **điểm đến**.
-- Chọn dịch vụ: ô tô, xe máy, taxi sân bay.
-- Chọn gói dịch vụ + phương tiện + thanh toán.
-- Nhấn **Đặt chuyến** ➝ Hệ thống tìm tài xế gần nhất.
-- Theo dõi hành trình trên bản đồ.
+<span id="1-i-ngay"></span>
+<span id="2-at-lich"></span>
+<span id="at-tai-xe-va-at-xe"></span>
 
-Nếu cần đổi lịch hoặc hủy, xem [hướng dẫn hủy chuyến và hoàn tiền](huy-chuyen-hoan-tien.md).
+GO’Cheap DriverX giúp khách hàng sử dụng chính chiếc xe của mình mà không cần trực tiếp cầm lái.
 
-## 2. Đặt lịch
-- Chọn **ngày & giờ đón** mong muốn.
-- Xác nhận chuyến ➝ Hệ thống sẽ tự động gửi yêu cầu cho tài xế trước giờ đón.
-- Bạn sẽ nhận thông báo khi có tài xế nhận chuyến.
+## Khi nào nên sử dụng?
 
-💡 Mẹo: Đặt xe sớm hơn 15-30 phút để chủ động thời gian.  
---> <a href="https://gocheap.vn/quy-tac-ung-xu" target="_blank">Quy tắc ứng xử</a>
+- Đã uống rượu bia và không thể tự lái xe.
+- Cảm thấy mệt mỏi hoặc không đủ sức khỏe để điều khiển phương tiện.
+- Cần tài xế đưa mình và xe về nhà.
+- Cần người lái xe phục vụ công việc hoặc hành trình cá nhân.
+
+## Quy trình đặt tài xế
+
+1. Mở ứng dụng GO’Cheap/DriverX chính thức.
+2. Chọn dịch vụ lái xe hộ.
+3. Nhập địa điểm đón.
+4. Nhập điểm đến hoặc hành trình theo yêu cầu ứng dụng.
+5. Kiểm tra gói dịch vụ và báo giá.
+6. Xác nhận đặt chuyến.
+7. Theo dõi thông tin tài xế được phân công.
+8. Phối hợp với tài xế tại điểm đón.
+9. Kiểm tra xe và xác nhận bắt đầu chuyến theo hướng dẫn.
+10. Hoàn thành hành trình và thanh toán theo xác nhận.
+
+## Trước khi tài xế đến
+
+- Chuẩn bị xe tại vị trí đón thuận tiện.
+- Đảm bảo xe có giấy tờ cần thiết.
+- Thông báo trước các yêu cầu đặc biệt.
+- Xác minh thông tin tài xế trước khi giao chìa khóa.
+
+## Khi kết thúc chuyến
+
+- Kiểm tra tài sản cá nhân và tình trạng xe.
+- Xác nhận hoàn thành chuyến theo ứng dụng.
+- Thanh toán theo báo giá và các khoản đã được xác nhận.
+
+## An toàn
+
+Nếu đã uống rượu bia, không tự lái xe kể cả khi cảm thấy tỉnh táo. Hãy sử dụng tài xế lái xe hộ hoặc phương tiện thay thế an toàn.
+
+## Xem thêm
+
+- [Giá dịch vụ và phương thức thanh toán](thanh-toan.md)
+- [Hủy chuyến, thay đổi lịch và hoàn tiền](huy-chuyen-hoan-tien.md)
+- [Chính sách an toàn và trách nhiệm dịch vụ](../chinh-sach/an-toan-trach-nhiem.md)

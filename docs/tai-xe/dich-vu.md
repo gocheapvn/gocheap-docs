@@ -6,10 +6,8 @@
 - **Xe hợp đồng**: chủ yếu là khách hàng doanh nghiệp.  
 
 ## 2. Chính sách hoa hồng
-- Mức phí: từ 20-40% tùy dịch vụ.  
-- Thưởng doanh thu (đang nghiên cứu).  
-- Thưởng chất lượng (điểm đánh giá khách hàng).  
+- Xem khoản phí áp dụng cho chuyến trong DriverX và đối chiếu hợp đồng đã ký.
 
 ## 3. An toàn & hỗ trợ
-- Bảo hiểm chuyến đi cho tài xế và khách hàng.  
+- Liên hệ CSKH để xác nhận phạm vi bảo hiểm của chuyến nếu cần.
 - Hỗ trợ khẩn cấp 24/7.  

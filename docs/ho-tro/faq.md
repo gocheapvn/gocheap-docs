@@ -6,7 +6,7 @@ Xem [cài đặt và đăng ký](../khach-hang/cai-dat-app.md) để tìm liên 
 
 ## Tôi có thể đặt trước giờ đón không?
 
-Xem phần [đặt lịch](../khach-hang/thue-tai-xe.md#2-at-lich) trong hướng dẫn đặt dịch vụ. Nếu cần xe có lái theo giờ cho doanh nghiệp, xem [đặt xe theo giờ](../doanh-nghiep/dat-xe-theo-gio.md).
+Xem phần [đặt lịch](../khach-hang/thue-tai-xe.md#quy-trinh-at-tai-xe) trong hướng dẫn đặt dịch vụ. Nếu cần xe có lái theo giờ cho doanh nghiệp, xem [đặt xe theo giờ](../doanh-nghiep/dat-xe-theo-gio.md).
 
 ## Đã thanh toán, tôi cần hủy hoặc kiểm tra hoàn tiền ở đâu?
 
@@ -19,3 +19,8 @@ Xem [ví, doanh thu và hoa hồng](../tai-xe/vi-doanh-thu-hoa-hong.md).
 ## Doanh nghiệp cần xuất hóa đơn thì chuẩn bị gì?
 
 Xem [hóa đơn và đối soát](../doanh-nghiep/hoa-don-va-doi-soat.md) để chuẩn bị thông tin doanh nghiệp và kỳ hóa đơn.
+
+## Xem theo đối tượng
+
+- [FAQ khách hàng](../khach-hang/cau-hoi-thuong-gap.md)
+- [FAQ tài xế](../tai-xe/cau-hoi-thuong-gap.md)

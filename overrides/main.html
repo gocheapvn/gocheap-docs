@@ -1,0 +1,8 @@
+{% extends "base.html" %}
+
+{% block extrahead %}
+  {{ super() }}
+  {% if page and page.meta and page.meta.meta_description %}
+    <meta name="description" content="{{ page.meta.meta_description | e }}">
+  {% endif %}
+{% endblock %}

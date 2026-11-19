@@ -1,7 +1,7 @@
 <footer class="md-footer">
   <nav class="md-grid custom-footer" aria-label="Liên kết hỗ trợ">
     <a href="https://gocheap.vn/">GO’Cheap Việt Nam</a>
-    <a href="{{ 'ho-tro/lien-he/' | url }}">Liên hệ CSKH</a>
-    <a href="{{ 'ho-tro/chinh-sach/' | url }}">Tra cứu chính sách</a>
+    <a href="{{ ('ho-tro/lien-he/' if config.use_directory_urls else 'ho-tro/lien-he.html') | url }}">Liên hệ CSKH</a>
+    <a href="{{ ('ho-tro/chinh-sach/' if config.use_directory_urls else 'ho-tro/chinh-sach.html') | url }}">Tra cứu chính sách</a>
   </nav>
 </footer>

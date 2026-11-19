@@ -1,75 +1,87 @@
-# Câu hỏi thường gặp (FAQ) cho Khách hàng
+---
+document_id: HT01
+title: Câu hỏi thường gặp của khách hàng
+category: support
+audience: customer_and_partner
+visibility: public
+language: vi-VN
+slug: khach-hang/cau-hoi-thuong-gap
+version: '1.0'
+status: published
+owner: Customer Experience
+seo_title: Câu hỏi thường gặp của khách hàng | GO’Cheap
+meta_description: Giải đáp các câu hỏi thường gặp về dịch vụ GO’Cheap, cách đặt chuyến, xem giá, thanh toán, đổi lịch và liên hệ hỗ
+  trợ.
+related_documents:
+- KH02
+- KH03
+- KH07
+- KH08
+- HT05
+published_date: '2026-11-20'
+---
 
-## 1. Tôi có thể hủy chuyến không?
-- Có, nhưng chỉ khi tài xế **chưa di chuyển** tới điểm đón.
+# Câu hỏi thường gặp của khách hàng
 
-## 2. Nếu không tìm thấy tài xế thì sao?
-- Hệ thống mở rộng bán kính tìm kiếm. Nếu vẫn không có, bạn sẽ nhận thông báo.
+<span id="1-toi-co-the-huy-chuyen-khong"></span>
+<span id="2-neu-khong-tim-thay-tai-xe-thi-sao"></span>
+<span id="3-toi-co-the-ang-ky-nhieu-xe-khong"></span>
+<span id="4-lam-sao-oi-iem-lay-qua"></span>
+<span id="5-toi-can-ho-tro-gap"></span>
+<span id="cau-hoi-thuong-gap-faq-cho-khach-hang"></span>
+<span id="q1-toi-co-phai-ua-giay-to-xe-cho-tai-xe-khong"></span>
+<span id="q2-neu-xe-bi-tray-xuoc-thi-ai-chiu-trach-nhiem"></span>
+<span id="q3-tai-xe-co-cho-san-khi-toi-chua-ra-khoi-quan-khong"></span>
+<span id="q4-dich-vu-lai-xe-ho-cho-nguoi-say-la-gi"></span>
+<span id="q5-khi-nao-nen-su-dung-dich-vu-lai-xe-ho"></span>
+<span id="q6-dich-vu-lai-xe-ho-hoat-ong-nhu-the-nao"></span>
+<span id="q7-chi-phi-dich-vu-lai-xe-ho-la-bao-nhieu"></span>
+<span id="q8-loi-ich-khi-su-dung-dich-vu-lai-xe-ho-la-gi"></span>
+<span id="q9-lam-the-nao-e-chon-dich-vu-lai-xe-ho-uy-tin"></span>
 
-## 3. Tôi có thể đăng ký nhiều xe không?
-- Có, bạn có thể thêm nhiều phương tiện (ô tô, xe máy).
+## Dịch vụ
 
-## 4. Làm sao đổi điểm lấy quà?
-- Vào mục **Tích điểm đổi quà** trong tab Tài khoản.
+### GO’Cheap có cung cấp dịch vụ lái xe hộ không?
+Có. GO’Cheap DriverX cung cấp dịch vụ tài xế lái chính chiếc xe của khách hàng theo yêu cầu.
 
-## 5. Tôi cần hỗ trợ gấp?
-- Liên hệ **Trung tâm hỗ trợ (Zalo OA)** hoặc gọi hotline [024 7300 0636](tel:+842473000636)
+### Tôi có thể đặt tài xế sau khi uống rượu bia không?
+Bạn có thể yêu cầu dịch vụ lái xe hộ nếu đáp ứng điều kiện phục vụ. Không tự lái xe sau khi uống rượu bia.
 
-## Q1. Tôi có phải đưa giấy tờ xe cho tài xế không?
-   **Không bắt buộc**. Tuy nhiên, để đề phòng kiểm tra bất ngờ, bạn có thể để sẵn giấy tờ xe trong ngăn cốp.
+### GO’Cheap có phục vụ đi tỉnh không?
+GO’Cheap tiếp nhận nhu cầu đi tỉnh tùy dịch vụ, phương tiện và khả năng bố trí.
 
-## Q2. Nếu xe bị trầy xước thì ai chịu trách nhiệm?
-   GO’Cheap có **chính sách hỗ trợ giải quyết rõ ràng nếu có sự cố xảy ra trong quá trình tài xế điều khiển**. Ngoài ra, các tài xế chuyên nghiệp thường quay phim lại tình trạng xe trước khi nhận chuyến để làm bằng chứng nếu khách hàng có khiếu nại.
+### Tôi có thể thuê xe 16 hoặc 45 chỗ không?
+Có thể gửi yêu cầu thuê xe từ 4 đến 45 chỗ, tùy lịch trình và nguồn phương tiện.
 
-## Q3. Tài xế có chờ sẵn khi tôi chưa ra khỏi quán không?
-   **Tài xế sẽ đợi trong thời gian hợp lý**. Tuy nhiên, bạn nên báo trước để không phát sinh chi phí chờ.
+## Đặt chuyến và giá
 
-## Q4. <a href="https://www.vietnamplus.vn/dich-vu-cho-thue-tai-xe-driverx-gop-suc-vi-su-an-toan-cua-cong-dong/749764.vnp" target="_blank">Dịch vụ lái xe hộ cho người say</a> là gì?
-   Lái xe thuê cho người say là dịch vụ dành cho những người đã uống rượu bia. Khách hàng chỉ cần tải ứng dụng và đặt Lái xe, tài xế sẽ đến đón và lái chính chiếc xe của khách hàng về nhà. Dịch vụ này giúp đảm bảo an toàn cho bản thân và những người đi đường khác.
+### Tôi có thể đặt xe trước không?
+Có thể gửi yêu cầu đặt trước. Khả năng xác nhận phụ thuộc dịch vụ và tình trạng phương tiện.
 
-## Q5. Khi nào nên sử dụng dịch vụ lái xe hộ? 
-      Bạn nên sử dụng dịch vụ này trong nhiều tình huống, bao gồm:
-	  
-      *   Sau khi uống rượu bia, đặc biệt khi không thể tự lái xe an toàn.
-      *   Khi mệt mỏi, buồn ngủ và không tự tin điều khiển xe.
-      *   Cần người lái xe hộ chở khách hoặc gia đình.
-      *   Không muốn để xe lại địa điểm tổ chức sự kiện.
-      *   Đi công tác hoặc tham dự sự kiện dài ngày.
-      *   Di chuyển trong các chuyến đi ngắn ngày, du lịch hoặc về quê để tận hưởng chuyến đi thoải mái nhất.
+### Giá có được thông báo trước không?
+Khách hàng cần kiểm tra báo giá và điều kiện áp dụng trước khi xác nhận.
 
-## Q6. Dịch vụ lái xe hộ hoạt động như thế nào?
-      Quy trình hoạt động được thiết kế đơn giản và thuận tiện, thường bao gồm các bước sau:
-	  
-      *   Mở ứng dụng hoặc gọi tổng đài để đặt tài xế.
-      *   Cung cấp địa chỉ đón và thời gian cần lái hộ.
-      *   Tài xế đến tận nơi và xác nhận thông tin.
-      *   Tài xế lái chính xe của bạn về địa điểm mong muốn.
-      *   Hoàn tất chuyến đi và thanh toán minh bạch.
-    Ứng dụng như GO’Cheap cho phép khách hàng đặt tài xế nhanh chóng và tiện lợi.
+### Tôi muốn đổi điểm đến thì sao?
+Liên hệ tài xế và bộ phận điều hành để xác nhận. Chi phí có thể thay đổi theo hành trình.
 
-## Q7. Chi phí dịch vụ lái xe hộ là bao nhiêu?
+## Hỗ trợ
 
-   *   Giá dịch vụ lái xe hộ khi say trên thị trường dao động tùy thuộc vào loại hình dịch vụ, thời gian, quãng đường di chuyển và bảng giá của từng đơn vị cung cấp.
-   *   Chi phí tối thiểu cho dịch vụ này thường dao động từ **300.000 vnđ cho 5km đầu tiên với ô tô**, và **150.000 vnđ cho 5km đầu tiên với xe máy**.
-   *   Đối với dịch vụ thuê theo giờ, mức giá có thể dao động khoảng **500.000 vnđ cho 3 giờ đầu tiên** (chưa bao gồm VAT).
-   *   Các yếu tố khác ảnh hưởng đến giá bao gồm: thời điểm đặt tài xế (sáng sớm, đêm khuya, giờ tan tầm), thời tiết, phí VAT (8% - 10%), và chi phí cầu đường, sửa chữa xe nếu có.
-   *   GO’Cheap là đơn vị có dịch vụ tốt nhất với đội ngũ tài xế chất lượng lâu năm.
+### Tài xế đến muộn thì sao?
+Liên hệ tài xế theo thông tin chuyến hoặc bộ phận hỗ trợ để kiểm tra.
 
-## Q8. Lợi ích khi sử dụng dịch vụ lái xe hộ là gì?
+### Tôi cần hóa đơn thì làm thế nào?
+Cung cấp thông tin xuất hóa đơn theo hướng dẫn và xác nhận với bộ phận kế toán.
 
-   *   **Đảm bảo an toàn tối đa**: Tránh nguy cơ tai nạn giao thông cho bản thân và người khác khi lái xe dưới tác động của cồn hoặc khi mệt mỏi.
-   *   **Không vi phạm pháp luật**: Tránh bị xử phạt nặng theo Nghị định 100/2019/NĐ-CP, với mức phạt có thể lên đến 40 triệu đồng cho ô tô và 8 triệu đồng cho xe máy, kèm theo thu giữ bằng lái.
-   *   **Tiết kiệm thời gian và chi phí**: Tránh việc phải gửi xe qua đêm và sau đó phải thuê xe để quay lại lấy xe.
-   *   **Di chuyển thoải mái và tiện lợi**: Khách hàng có thể nghỉ ngơi, thư giãn mà không phải lo lắng về đường xá hay khả năng lái xe, đặc biệt trong các chuyến đi dài hoặc sau khi làm việc căng thẳng.
-   *   **Bảo vệ tài sản**: Đảm bảo xe của bạn được đưa về nhà an toàn, tránh tình trạng mất mát hoặc hỏng hóc khi tự lái trong tình trạng không tỉnh táo.
-   *   **Dịch vụ chuyên nghiệp và chất lượng**: Nhiều đơn vị cung cấp dịch vụ có đội ngũ tài xế chuyên nghiệp, giàu kinh nghiệm, và luôn sẵn sàng phục vụ 24/7.
-   *   **Kiểm soát thời gian linh hoạt**: Có thể yêu cầu đưa đón bất cứ lúc nào trong ngày, bao gồm cả ban đêm.
-   *   **Nâng tầm phong cách**: Đối với những người có nhu cầu cao cấp, dịch vụ lái xe chuyên biệt có thể nâng cao hình ảnh cá nhân và chuyên nghiệp.
+### Tôi muốn phản ánh chất lượng dịch vụ ở đâu?
+Gửi mã chuyến, thời gian và nội dung phản ánh qua kênh hỗ trợ chính thức.
 
-## Q9. Làm thế nào để chọn dịch vụ lái xe hộ uy tín?
+### Tôi để quên tài sản thì sao?
+Liên hệ GO’Cheap càng sớm càng tốt, cung cấp mã chuyến và mô tả tài sản.
 
-   *   Cần lựa chọn **đơn vị có uy tín, chất lượng** như GO’Cheap để đảm bảo không gặp vấn đề phát sinh.
-   *   Chọn tài xế có **lý lịch rõ ràng, minh bạch** để tránh các rủi ro như lừa đảo hoặc tài xế không đáng tin cậy. Điều này cũng giúp bạn nắm rõ khả năng lái xe của họ.
-   *   Chọn tài xế có **tay lái cứng và kinh nghiệm** để tăng khả năng an toàn khi di chuyển. Các công ty thường có quy trình tuyển dụng nghiêm ngặt và đào tạo về thái độ, đạo đức nghề nghiệp.
-   *   Ưu tiên các đơn vị có **giá cước minh bạch** theo số km cụ thể hoặc hiển thị rõ ràng trên ứng dụng.
-   *   Đảm bảo dịch vụ hỗ trợ **khách hàng 24/7** để giải quyết mọi vấn đề phát sinh kịp thời.
+## Xem thêm
+
+- [Hướng dẫn cài đặt và đăng ký ứng dụng](cai-dat-app.md)
+- [Hướng dẫn đặt tài xế lái xe hộ GO’Cheap DriverX](thue-tai-xe.md)
+- [Giá dịch vụ và phương thức thanh toán](thanh-toan.md)
+- [Hủy chuyến, thay đổi lịch và hoàn tiền](huy-chuyen-hoan-tien.md)
+- [Hướng dẫn xử lý tài sản thất lạc](../ho-tro/tai-san-that-lac.md)

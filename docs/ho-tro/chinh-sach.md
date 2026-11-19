@@ -19,3 +19,11 @@
 - [Quy chế hoạt động](https://gocheap.vn/quy-che-hoat-dong)
 - [Bảo vệ dữ liệu cá nhân](https://gocheap.vn/chinh-sach-bao-ve-du-lieu-ca-nhan)
 - [Giải quyết khiếu nại](https://gocheap.vn/khieu-nai)
+
+## Các bài tra cứu trong Help Center
+
+- [Điều khoản sử dụng dịch vụ](dieu-khoan.md)
+- [Chính sách bảo vệ dữ liệu cá nhân](bao-mat.md)
+- [Chính sách giá và phụ phí](../chinh-sach/gia-va-phu-phi.md)
+- [Chính sách hủy chuyến và hoàn tiền](../chinh-sach/huy-chuyen-hoan-tien.md)
+- [Chính sách an toàn và trách nhiệm dịch vụ](../chinh-sach/an-toan-trach-nhiem.md)

@@ -1,5 +1,6 @@
 ---
 title: Trang chủ
+meta_description: Trung tâm hướng dẫn GO’Cheap dành cho khách hàng, đối tác tài xế và doanh nghiệp, với các bài về đặt chuyến, thanh toán và hỗ trợ.
 hide:
   - navigation
   - toc
@@ -24,10 +25,14 @@ hide:
 
 ## :lucide-user-round: Dành cho khách hàng
 
+- [Giới thiệu GO’Cheap](gioi-thieu.md)
 - [Cài đặt và đăng ký](khach-hang/cai-dat-app.md)
-- [Đặt tài xế và đặt xe](khach-hang/thue-tai-xe.md)
+- [Đặt tài xế lái xe hộ](khach-hang/thue-tai-xe.md)
+- [Đặt xe sân bay](khach-hang/dat-xe-san-bay.md)
+- [Thuê xe hợp đồng](khach-hang/thue-xe-hop-dong.md)
+- [Xe ghép tiện chuyến](khach-hang/xe-ghep-tien-chuyen.md)
 - [Giá dịch vụ và thanh toán](khach-hang/thanh-toan.md)
-- [Hủy chuyến, hoàn tiền](khach-hang/huy-chuyen-hoan-tien.md)
+- [Hủy chuyến, đổi lịch và hoàn tiền](khach-hang/huy-chuyen-hoan-tien.md)
 - [Bảo hiểm và xử lý sự cố](khach-hang/bao-hiem-va-su-co.md)
 
 </section>
@@ -49,11 +54,13 @@ hide:
 
 ## :lucide-building-2: Dành cho khách hàng doanh nghiệp
 
+- [Giải pháp vận tải](doanh-nghiep/giai-phap-van-tai.md)
 - [Đăng ký hợp đồng](doanh-nghiep/dang-ky-hop-dong.md)
 - [Đặt xe theo giờ](doanh-nghiep/dat-xe-theo-gio.md)
-- [Quản lý đội xe và tài xế](doanh-nghiep/quan-ly-doi-xe-va-tai-xe.md)
-- [Thanh toán định kỳ](doanh-nghiep/thanh-toan-dinh-ky.md)
+- [Quản lý đặt xe và chuyến](doanh-nghiep/dat-xe-quan-ly-chuyen.md)
+- [Thanh toán định kỳ và đối soát](doanh-nghiep/thanh-toan-dinh-ky.md)
 - [Hóa đơn và đối soát](doanh-nghiep/hoa-don-va-doi-soat.md)
+- [Xe hợp đồng và yêu cầu đặc biệt](doanh-nghiep/xe-hop-dong-yeu-cau.md)
 
 </section>
 
@@ -62,8 +69,12 @@ hide:
 ## :lucide-headset: Trung tâm hỗ trợ
 
 - [FAQ](ho-tro/faq.md)
+- [FAQ khách hàng](khach-hang/cau-hoi-thuong-gap.md)
+- [FAQ tài xế](tai-xe/cau-hoi-thuong-gap.md)
 - [Báo sự cố](ho-tro/bao-su-co.md)
 - [Liên hệ CSKH](ho-tro/lien-he.md)
+- [Khiếu nại và tranh chấp](ho-tro/khieu-nai-tranh-chap.md)
+- [Tài sản thất lạc](ho-tro/tai-san-that-lac.md)
 - [Tra cứu chính sách](ho-tro/chinh-sach.md)
 
 </section>

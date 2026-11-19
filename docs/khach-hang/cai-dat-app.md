@@ -1,44 +1,57 @@
-# Cài đặt và đăng ký
+---
+document_id: KH02
+title: Hướng dẫn cài đặt và đăng ký ứng dụng
+category: customer
+audience: customer
+visibility: public
+language: vi-VN
+slug: khach-hang/cai-dat-app
+version: '1.0'
+status: published
+owner: Customer Experience
+seo_title: Hướng dẫn cài đặt và đăng ký ứng dụng | GO’Cheap
+meta_description: Xem liên kết tải ứng dụng khách hàng GO’Cheap trên iOS và Android, cách đăng ký, xác thực và kiểm tra thông tin tài
+  khoản.
+related_documents:
+- KH03
+- HT03
+published_date: '2026-11-20'
+---
 
-GO’Cheap Lái xe hộ là ứng dụng thuê tài xế hộ, giúp bạn di chuyển **an toàn – tiện lợi – thông minh**.
+# Hướng dẫn cài đặt và đăng ký ứng dụng
 
-- Đặt tài xế lái hộ ô tô, xe máy, taxi sân bay.
-- Theo dõi hành trình thời gian thực.
-- Thanh toán nhanh: tiền mặt, QR, chuyển khoản.
-- Quản lý tài khoản, điểm thưởng, hội viên.
-- Trải nghiệm nhiều dịch vụ tiện ích khác.
+<span id="cai-at-ung-dung"></span>
+<span id="cai-at-va-ang-ky"></span>
+<span id="quan-ly-tai-khoan"></span>
+<span id="thong-bao"></span>
 
-👉 <a href="https://gocheap.vn/ungdung">Tải app</a> trên **App Store** và **Google Play** để bắt đầu.
+## Bước 1. Cài đặt ứng dụng
 
-## Cài đặt ứng dụng
-1. Tải GO’Cheap Lái xe hộ từ **App Store** hoặc **Google Play**.
-2. Mở app lần đầu ➝ cấp quyền:
-   - Vị trí (GPS) để lấy điểm đón nhanh.
-   - Thông báo để nhận cập nhật chuyến và khuyến mãi.
-3. Đăng nhập bằng số điện thoại:
-   - Nhận OTP qua **Zalo** hoặc **Voice Call**.
-   - Lần đầu: bổ sung họ tên, email, ngày sinh, giới tính.
+- Truy cập App Store hoặc Google Play.
+- Tìm đúng ứng dụng chính thức do GO’Cheap cung cấp.
+- Kiểm tra tên nhà phát triển và đường dẫn do GO’Cheap công bố.
+- Tải và cài đặt ứng dụng.
 
-✅ Xong! Bạn đã sẵn sàng đặt tài xế.
+[Tải ứng dụng khách hàng trên App Store](https://apps.apple.com/vn/app/gocheap-l%C3%A1i-xe-h%E1%BB%99/id6455336074) · [Tải trên Google Play](https://play.google.com/store/apps/details?id=customer.gocheap.vn).
 
-## Quản lý tài khoản
-Trong mục **Tài khoản**, bạn có thể:
+## Bước 2. Đăng ký tài khoản
 
-- 👤 **Thông tin cá nhân**: cập nhật tên, email, ngày sinh, giới tính.
-- 🚘 **Phương tiện**: thêm, sửa, xoá xe của bạn.
-- ⭐ **Tích điểm đổi quà**: xem điểm và đổi ưu đãi.
-- 🎫 **Gói hội viên**: xem hoặc nâng cấp gói hội viên.
-- ⚙️ **Cài đặt ứng dụng**: ngôn ngữ, thông báo, vị trí.
-- 📞 **Trung tâm hỗ trợ**: chat Zalo OA.
-- 👍 **Đánh giá ứng dụng**.
-- 📜 **Điều khoản sử dụng**.
-- 🔐 **Đăng xuất**.
+- Mở ứng dụng.
+- Nhập số điện thoại đang sử dụng.
+- Thực hiện xác thực theo hướng dẫn trên màn hình.
+- Hoàn thiện thông tin tài khoản theo yêu cầu.
 
-## Thông báo
-- Cập nhật chuyến đi.
-- Thông tin tích điểm, đổi quà.
-- Ưu đãi, khuyến mãi, sự kiện.
-- Thông báo hệ thống (bảo trì, nâng cấp).
+## Bước 3. Kiểm tra thông tin
 
-📌 Thông báo chưa đọc sẽ được đánh dấu nổi bật (có chấm đỏ).
+Đảm bảo số điện thoại và thông tin liên hệ chính xác để nhận thông báo về chuyến đi.
 
+## Bước 4. Đặt dịch vụ
+
+Chọn dịch vụ phù hợp, nhập thông tin hành trình, kiểm tra báo giá và xác nhận đặt chuyến.
+
+Thực hiện theo thông báo xác thực trên phiên bản ứng dụng bạn đang dùng.
+
+## Xem thêm
+
+- [Hướng dẫn đặt tài xế lái xe hộ GO’Cheap DriverX](thue-tai-xe.md)
+- [Hướng dẫn gửi yêu cầu hỗ trợ](../ho-tro/lien-he.md)
