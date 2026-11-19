@@ -1,7 +1,15 @@
-document.addEventListener("DOMContentLoaded", function () {
-  const logoLink = document.querySelector("a.md-header__button.md-logo");
-  if (logoLink) {
-    logoLink.setAttribute("href", "https://gocheap.vn");
-    logoLink.setAttribute("target", "_blank"); // mở tab mới
+document.addEventListener("DOMContentLoaded", () => {
+  const searchButton = document.querySelector(".help-search");
+  const searchToggle = document.getElementById("__search");
+  const searchInput = document.querySelector("[data-md-component='search-query']");
+
+  if (searchButton && searchToggle && searchInput) {
+    searchButton.hidden = false;
+    searchButton.addEventListener("click", () => {
+      if (!searchToggle.checked) {
+        searchToggle.click();
+      }
+      searchInput.focus();
+    });
   }
 });

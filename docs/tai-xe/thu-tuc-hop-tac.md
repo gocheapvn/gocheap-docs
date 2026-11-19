@@ -9,7 +9,7 @@
 
 ## 2. Quy trình đăng ký
 1. **Đăng ký online** tại https://gocheap.vn/taixe.  
-2. **Nộp hồ sơ giấy** tại văn phòng GOCheap hoặc gửi bản scan qua email.  
+2. **Nộp hồ sơ giấy** tại văn phòng GO’Cheap hoặc gửi bản scan qua email.
 3. **Tham gia buổi đào tạo** online/offline. --> <a href="https://creators.spotify.com/pod/profile/gocheap/episodes/K-nng-giao-tip-cho-ti-x-GOCheap-e35dccu" target="_blank">Kỹ năng giao tiếp cho tài xế</a> 
 4. **Ký hợp đồng hợp tác điện tử**.  
 5. **Kích hoạt tài khoản** sau khi được xét duyệt.  

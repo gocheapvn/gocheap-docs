@@ -19,7 +19,7 @@
    **Không bắt buộc**. Tuy nhiên, để đề phòng kiểm tra bất ngờ, bạn có thể để sẵn giấy tờ xe trong ngăn cốp.
 
 ## Q2. Nếu xe bị trầy xước thì ai chịu trách nhiệm?
-   GOCheap có **chính sách hỗ trợ giải quyết rõ ràng nếu có sự cố xảy ra trong quá trình tài xế điều khiển**. Ngoài ra, các tài xế chuyên nghiệp thường quay phim lại tình trạng xe trước khi nhận chuyến để làm bằng chứng nếu khách hàng có khiếu nại.
+   GO’Cheap có **chính sách hỗ trợ giải quyết rõ ràng nếu có sự cố xảy ra trong quá trình tài xế điều khiển**. Ngoài ra, các tài xế chuyên nghiệp thường quay phim lại tình trạng xe trước khi nhận chuyến để làm bằng chứng nếu khách hàng có khiếu nại.
 
 ## Q3. Tài xế có chờ sẵn khi tôi chưa ra khỏi quán không?
    **Tài xế sẽ đợi trong thời gian hợp lý**. Tuy nhiên, bạn nên báo trước để không phát sinh chi phí chờ.
@@ -45,7 +45,7 @@
       *   Tài xế đến tận nơi và xác nhận thông tin.
       *   Tài xế lái chính xe của bạn về địa điểm mong muốn.
       *   Hoàn tất chuyến đi và thanh toán minh bạch.
-    Ứng dụng như GOCheap cho phép khách hàng đặt tài xế nhanh chóng và tiện lợi.
+    Ứng dụng như GO’Cheap cho phép khách hàng đặt tài xế nhanh chóng và tiện lợi.
 
 ## Q7. Chi phí dịch vụ lái xe hộ là bao nhiêu?
 
@@ -53,7 +53,7 @@
    *   Chi phí tối thiểu cho dịch vụ này thường dao động từ **300.000 vnđ cho 5km đầu tiên với ô tô**, và **150.000 vnđ cho 5km đầu tiên với xe máy**.
    *   Đối với dịch vụ thuê theo giờ, mức giá có thể dao động khoảng **500.000 vnđ cho 3 giờ đầu tiên** (chưa bao gồm VAT).
    *   Các yếu tố khác ảnh hưởng đến giá bao gồm: thời điểm đặt tài xế (sáng sớm, đêm khuya, giờ tan tầm), thời tiết, phí VAT (8% - 10%), và chi phí cầu đường, sửa chữa xe nếu có.
-   *   GOCheap! là đơn vị có dịch vụ tốt nhất với đội ngũ tài xế chất lượng lâu năm.
+   *   GO’Cheap là đơn vị có dịch vụ tốt nhất với đội ngũ tài xế chất lượng lâu năm.
 
 ## Q8. Lợi ích khi sử dụng dịch vụ lái xe hộ là gì?
 
@@ -68,7 +68,7 @@
 
 ## Q9. Làm thế nào để chọn dịch vụ lái xe hộ uy tín?
 
-   *   Cần lựa chọn **đơn vị có uy tín, chất lượng** như GOCheap! để đảm bảo không gặp vấn đề phát sinh.
+   *   Cần lựa chọn **đơn vị có uy tín, chất lượng** như GO’Cheap để đảm bảo không gặp vấn đề phát sinh.
    *   Chọn tài xế có **lý lịch rõ ràng, minh bạch** để tránh các rủi ro như lừa đảo hoặc tài xế không đáng tin cậy. Điều này cũng giúp bạn nắm rõ khả năng lái xe của họ.
    *   Chọn tài xế có **tay lái cứng và kinh nghiệm** để tăng khả năng an toàn khi di chuyển. Các công ty thường có quy trình tuyển dụng nghiêm ngặt và đào tạo về thái độ, đạo đức nghề nghiệp.
    *   Ưu tiên các đơn vị có **giá cước minh bạch** theo số km cụ thể hoặc hiển thị rõ ràng trên ứng dụng.

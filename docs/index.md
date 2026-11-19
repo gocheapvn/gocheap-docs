@@ -7,9 +7,11 @@ hide:
 
 <div class="help-hero" markdown>
 
-# GOCheap Help Center
+# GO’Cheap Help Center
 
-Bạn cần hỗ trợ gì?
+<button class="help-search" type="button" aria-haspopup="dialog" hidden>
+:lucide-search: Tìm bài hướng dẫn
+</button>
 
 [Đặt tài xế và đặt xe](khach-hang/thue-tai-xe.md){ .md-button .md-button--primary }
 [Báo sự cố](ho-tro/bao-su-co.md){ .md-button }
@@ -20,7 +22,7 @@ Bạn cần hỗ trợ gì?
 
 <section class="help-card" markdown>
 
-## :material-account-outline: Dành cho khách hàng
+## :lucide-user-round: Dành cho khách hàng
 
 - [Cài đặt và đăng ký](khach-hang/cai-dat-app.md)
 - [Đặt tài xế và đặt xe](khach-hang/thue-tai-xe.md)
@@ -32,7 +34,7 @@ Bạn cần hỗ trợ gì?
 
 <section class="help-card" markdown>
 
-## :material-steering: Dành cho đối tác tài xế
+## :lucide-car-front: Dành cho đối tác tài xế
 
 - [Đăng ký và xét duyệt](tai-xe/thu-tuc-hop-tac.md)
 - [Hướng dẫn sử dụng DriverX](tai-xe/huong-dan-su-dung-app.md)
@@ -45,7 +47,7 @@ Bạn cần hỗ trợ gì?
 
 <section class="help-card" markdown>
 
-## :material-office-building-outline: Dành cho khách hàng doanh nghiệp
+## :lucide-building-2: Dành cho khách hàng doanh nghiệp
 
 - [Đăng ký hợp đồng](doanh-nghiep/dang-ky-hop-dong.md)
 - [Đặt xe theo giờ](doanh-nghiep/dat-xe-theo-gio.md)
@@ -57,7 +59,7 @@ Bạn cần hỗ trợ gì?
 
 <section class="help-card" markdown>
 
-## :material-headset: Trung tâm hỗ trợ
+## :lucide-headset: Trung tâm hỗ trợ
 
 - [FAQ](ho-tro/faq.md)
 - [Báo sự cố](ho-tro/bao-su-co.md)

@@ -8,4 +8,4 @@ Mở chuyến cần hủy trong ứng dụng và kiểm tra trạng thái. Nếu
 
 Nếu đã thanh toán, gửi mã chuyến, số tiền, thời điểm và phương thức thanh toán. Với giao dịch chuyển khoản hoặc QR, gửi mã giao dịch và che các thông tin tài khoản không cần thiết.
 
-Xem [chính sách hủy chuyến và hoàn tiền của GOCheap](https://gocheap.vn/chinh-sach-huy-chuyen-hoan-tien) để tra điều kiện và cách xử lý theo từng trường hợp.
+Xem [chính sách hủy chuyến và hoàn tiền của GO’Cheap](https://gocheap.vn/chinh-sach-huy-chuyen-hoan-tien) để tra điều kiện và cách xử lý theo từng trường hợp.

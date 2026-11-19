@@ -17,7 +17,7 @@ Các hãng xe và dịch vụ khác nhau có thể có yêu cầu cụ thể, nh
 
 *   **Yêu cầu về nhân thân và độ tuổi**:
     *   Là **công dân Việt Nam**.
-    *   **Độ tuổi**: GOCheap! ưu tiên tài xế từ 25 tuổi trở lên. 
+    *   **Độ tuổi**: GO’Cheap ưu tiên tài xế từ 25 tuổi trở lên.
     *   **Lý lịch tư pháp rõ ràng**, không có tiền án, tiền sự.
     *   **Âm tính với Heroin**.
     *   Có kỹ năng giao tiếp cơ bản, tác phong lịch sự, có trách nhiệm.
@@ -32,7 +32,7 @@ Các hãng xe và dịch vụ khác nhau có thể có yêu cầu cụ thể, nh
     *   **Giấy đăng ký xe** (cà vẹt xe). Đối với xe trả góp, cần có cà vẹt kèm dấu mộc ngân hàng hoặc hồ sơ mua trả góp.
     *   **Bảo hiểm bắt buộc trách nhiệm dân sự** của chủ xe cơ giới (còn hạn sử dụng, thông tin chính xác, và có kinh doanh đối với dịch vụ ô tô).
     *   **Giấy chứng nhận kiểm định** (đối với ô tô).
-    *   Đối với GOCheap Car, cần lắp thiết bị định vị, đăng kiểm biển vàng kinh doanh, có phù hiệu xe hợp đồng và tem GOCheap! Tài xế cần **gia nhập hợp tác xã (HTX)** để xin phù hiệu và được hướng dẫn đăng kiểm, lắp thiết bị giám sát hành trình.
+    *   Đối với GO’Cheap Car, cần lắp thiết bị định vị, đăng kiểm biển vàng kinh doanh, có phù hiệu xe hợp đồng và tem GO’Cheap Tài xế cần **gia nhập hợp tác xã (HTX)** để xin phù hiệu và được hướng dẫn đăng kiểm, lắp thiết bị giám sát hành trình.
 
 *   **Hồ sơ cần nộp (thường là bản photo công chứng trong vòng 6 tháng trừ khi yêu cầu bản gốc)**:
     *   **CMND/CCCD/Hộ chiếu** (còn hạn sử dụng tối thiểu 1 tháng).
@@ -63,9 +63,9 @@ Quy trình thường đơn giản và tiện lợi, thường bao gồm các bư
 
 ## Q6. Thu nhập của tài xế lái xe hộ là bao nhiêu và được tính như thế nào?
 
-*   **Thu nhập trung bình**: Thu nhập từ việc chạy lái xe hộ có thể dao động từ **500.000 đến 1.500.000 đồng mỗi ngày**. Bình quân một tháng, doanh thu từ GOCheap! có thể đạt khoảng **10-30 triệu đồng**. Tuy nhiên, sau khi trừ chiết khấu và các chi phí di chuyển (xe ôm, xe bus), thu nhập ròng thực tế có thể còn khoảng **9-20 triệu đồng/tháng**. 
+*   **Thu nhập trung bình**: Thu nhập từ việc chạy lái xe hộ có thể dao động từ **500.000 đến 1.500.000 đồng mỗi ngày**. Bình quân một tháng, doanh thu từ GO’Cheap có thể đạt khoảng **10-30 triệu đồng**. Tuy nhiên, sau khi trừ chiết khấu và các chi phí di chuyển (xe ôm, xe bus), thu nhập ròng thực tế có thể còn khoảng **9-20 triệu đồng/tháng**.
 *   **Các khoản phí**:
-    *   **Phí sử dụng ứng dụng (hoa hồng/chiết khấu)**: GOCheap! thu khoảng **20-40%** phí sử dụng ứng dụng. 
+    *   **Phí sử dụng ứng dụng (hoa hồng/chiết khấu)**: GO’Cheap thu khoảng **20-40%** phí sử dụng ứng dụng.
     *   **Thuế**: Tài xế xe công nghệ được xem là cá nhân kinh doanh dịch vụ vận chuyển. Nếu doanh thu trong năm dương lịch **trên 100 triệu đồng**, tài xế phải nộp **thuế thu nhập cá nhân (TNCN)** trên doanh thu. Hãng xe có trách nhiệm khai thuế, trích khấu trừ và đại diện nộp thuế TNCN cho tài xế. Mức thuế suất TNCN cho hoạt động vận tải là **1,5%**. Doanh thu tính thuế sẽ không được trừ các khoản chi phí như xăng xe, bảo dưỡng hay sửa chữa xe, và không được tính giảm trừ gia cảnh.
     *   Các chi phí khác như tiền xe ôm, xe bus, xe khách...
 *   **Các khoản thưởng**: Bao gồm tiền tip từ khách hàng (không bị trừ phí). 
@@ -75,7 +75,7 @@ Quy trình thường đơn giản và tiện lợi, thường bao gồm các bư
 *   **Lựa chọn vị trí và khung giờ hoạt động**: Hoạt động ở những khu vực có mật độ giao thông và nhu cầu sử dụng dịch vụ cao để tránh lãng phí thời gian di chuyển không có khách. Các khung giờ cao điểm hoặc những lúc có ít tài xế (như sáng sớm, đêm khuya) thường có nhiều cuốc xe và nhận được tiền tip.
 *   **Tối ưu hóa chi phí di chuyển**: Lựa chọn phương án di chuyển tối ưu như xe bus, xe đạp điện, xe đạp TNGO, di chuyển theo cặp...
 *   **Hiểu rõ và tuân thủ luật giao thông**: Điều này vô cùng quan trọng để tránh bị phạt nóng, phạt nguội. Việc bị phạt có thể làm giảm đáng kể thu nhập (ví dụ: vượt đèn đỏ, sai làn đường, quá tốc độ).
-*   **Duy trì hiệu suất hoạt động**: GOCheap! có chương trình hỗ trợ dựa trên hiệu suất, vì vậy việc duy trì hiệu suất tốt có thể giúp tài xế nhận được nhiều ưu đãi và cuốc xe hơn.
+*   **Duy trì hiệu suất hoạt động**: GO’Cheap có chương trình hỗ trợ dựa trên hiệu suất, vì vậy việc duy trì hiệu suất tốt có thể giúp tài xế nhận được nhiều ưu đãi và cuốc xe hơn.
 
 ## Q8. Nghề lái xe hộ có những rủi ro và bất lợi nào?
 
@@ -87,7 +87,7 @@ Quy trình thường đơn giản và tiện lợi, thường bao gồm các bư
 *   **Tuân thủ luật giao thông**: Điều này là nền tảng để đảm bảo an toàn và tránh các rủi ro pháp lý.
 *   **Kiểm tra tình trạng xe**: Các tài xế chuyên nghiệp thường quay phim lại tình trạng xe trước khi nhận chuyến để làm bằng chứng, đề phòng khiếu nại về trầy xước hoặc hỏng hóc.
 *   **Ưu tiên sức khỏe**: Dù có các chuyến xe hấp dẫn cho khung giờ cao điểm, tài xế vẫn cần đảm bảo ưu tiên về tính an toàn và sức khỏe hàng đầu.
-*   **Bảo hiểm**: Nhiều dịch vụ lái xe hộ cung cấp bảo hiểm phương tiện để bảo vệ xe của khách hàng trong trường hợp tai nạn hoặc hỏng hóc, và bảo hiểm cá nhân cho tài xế để đảm bảo an toàn trong trường hợp xảy ra tai nạn. GOCheap! cam kết triển khai bảo hiểm chuyến đi cho cả hành khách và tài xế.
+*   **Bảo hiểm**: Nhiều dịch vụ lái xe hộ cung cấp bảo hiểm phương tiện để bảo vệ xe của khách hàng trong trường hợp tai nạn hoặc hỏng hóc, và bảo hiểm cá nhân cho tài xế để đảm bảo an toàn trong trường hợp xảy ra tai nạn. GO’Cheap cam kết triển khai bảo hiểm chuyến đi cho cả hành khách và tài xế.
 *   **Hiểu rõ trách nhiệm pháp lý**: Tài xế cần nắm rõ quyền lợi và trách nhiệm của mình, và có thể tìm kiếm tư vấn pháp lý nếu xảy ra tranh chấp hoặc tai nạn.
 
 ## Q10: Nếu tôi gặp sự cố giao thông?

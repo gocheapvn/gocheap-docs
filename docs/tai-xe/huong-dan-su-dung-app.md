@@ -1,6 +1,6 @@
 # Hướng dẫn sử dụng DriverX
 
-Ứng dụng <a href="https://gocheap.vn/taixe">GOCheap Tai xế VIP ! dành cho đối tác tài xế</a>.
+Ứng dụng <a href="https://gocheap.vn/taixe">GO’Cheap Tai xế VIP ! dành cho đối tác tài xế</a>.
 
 - Quản lý trạng thái hoạt động, nhận chuyến, hoàn thành chuyến.
 - Nạp/rút tiền nhanh qua ví cá nhân.

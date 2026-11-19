@@ -1,14 +1,17 @@
-site_name: GOCheap Help Center
+site_name: GO’Cheap Help Center
 site_url: https://docs.gocheap.vn/
-site_description: Hướng dẫn và hỗ trợ GOCheap dành cho khách hàng, đối tác tài xế và doanh nghiệp.
+site_description: Hướng dẫn và hỗ trợ GO’Cheap dành cho khách hàng, đối tác tài xế và doanh nghiệp.
 theme:
   name: material
   custom_dir: overrides
   palette:
-    primary: deep purple
-    accent: deep purple
+    primary: custom
+    accent: custom
   language: vi
-  logo: images/gocheap-logo.png
+  font: false
+  logo: images/gocheap-horizontal.png
+  icon:
+    search: lucide/search
   favicon: images/gocheap-logo.png
   features:
     - navigation.tabs
@@ -24,8 +27,14 @@ markdown_extensions:
   - pymdownx.emoji:
       emoji_index: !!python/name:material.extensions.emoji.twemoji
       emoji_generator: !!python/name:material.extensions.emoji.to_svg
+      options:
+        custom_icons:
+          - overrides/.icons
 extra_css:
+  - assets/fonts/fonts.css
   - assets/css/custom.css
+extra_javascript:
+  - js/custom.js
 extra:
   generator: false
 not_in_nav: |

@@ -1,6 +1,6 @@
 # Câu hỏi thường gặp
 
-## Tôi muốn tải ứng dụng hoặc tạo tài khoản GOCheap?
+## Tôi muốn tải ứng dụng hoặc tạo tài khoản GO’Cheap?
 
 Xem [cài đặt và đăng ký](../khach-hang/cai-dat-app.md) để tìm liên kết tải và các bước thiết lập tài khoản.
 

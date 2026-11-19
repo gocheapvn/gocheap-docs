@@ -2,7 +2,7 @@
 
 ## Kiểm tra giá trước khi đặt
 
-Chọn điểm đón, điểm đến và loại dịch vụ để kiểm tra cước hiển thị trước khi xác nhận. Xem [chính sách giá của GOCheap](https://gocheap.vn/chinh-sach-gia) để tra cách tính giá và phụ phí.
+Chọn điểm đón, điểm đến và loại dịch vụ để kiểm tra cước hiển thị trước khi xác nhận. Xem [chính sách giá của GO’Cheap](https://gocheap.vn/chinh-sach-gia) để tra cách tính giá và phụ phí.
 
 ## Thanh toán chuyến
 
