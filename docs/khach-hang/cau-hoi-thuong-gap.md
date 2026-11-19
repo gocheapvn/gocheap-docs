@@ -1,19 +1,19 @@
 # Câu hỏi thường gặp (FAQ) cho Khách hàng
 
-##1. Tôi có thể hủy chuyến không?
+## 1. Tôi có thể hủy chuyến không?
 - Có, nhưng chỉ khi tài xế **chưa di chuyển** tới điểm đón.
 
-##2. Nếu không tìm thấy tài xế thì sao?
+## 2. Nếu không tìm thấy tài xế thì sao?
 - Hệ thống mở rộng bán kính tìm kiếm. Nếu vẫn không có, bạn sẽ nhận thông báo.
 
-##3. Tôi có thể đăng ký nhiều xe không? 
+## 3. Tôi có thể đăng ký nhiều xe không?
 - Có, bạn có thể thêm nhiều phương tiện (ô tô, xe máy).
 
-##4. Làm sao đổi điểm lấy quà? 
+## 4. Làm sao đổi điểm lấy quà?
 - Vào mục **Tích điểm đổi quà** trong tab Tài khoản.
 
-##5. Tôi cần hỗ trợ gấp?
-- Liên hệ **Trung tâm hỗ trợ (Zalo OA)** hoặc gọi hotline 02463000636
+## 5. Tôi cần hỗ trợ gấp?
+- Liên hệ **Trung tâm hỗ trợ (Zalo OA)** hoặc gọi hotline [024 7300 0636](tel:+842473000636)
 
 ## Q1. Tôi có phải đưa giấy tờ xe cho tài xế không?
    **Không bắt buộc**. Tuy nhiên, để đề phòng kiểm tra bất ngờ, bạn có thể để sẵn giấy tờ xe trong ngăn cốp.

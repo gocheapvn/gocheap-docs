@@ -1,8 +1,8 @@
-# Thủ tục hợp tác dành cho Đối tác Tài xế
+# Đăng ký và xét duyệt
 
 ## 1. Hồ sơ cần chuẩn bị
 - CMND/CCCD còn hiệu lực.  
-- Giấy phép lái xe hạng B2 trở lên (cho ô tô), A1/A2 (cho xe máy).  
+- Giấy phép lái xe còn hiệu lực và phù hợp với phương tiện đăng ký.
 - Đăng ký xe, đăng kiểm (nếu là dịch vụ xe).  
 - Bảo hiểm trách nhiệm dân sự bắt buộc.  
 - Giấy khám sức khỏe & LLTP (trong 6 tháng gần nhất).  
@@ -17,10 +17,8 @@
 ## 3. Phí & Chính sách
 - Không thu phí tham gia nhưng mỗi hạng thành viên có chính sách cọc hoặc không
 - Tính phí hoa hồng theo từng chuyến thành công.  
-- Tài xế nhận tiền mặt hoặc về ví GOCheap, có thể rút bất kỳ lúc nào và nhận các ngày 10-20-30 hàng tháng
+- Xem [ví, doanh thu và hoa hồng](vi-doanh-thu-hoa-hong.md) để kiểm tra giao dịch và cách rút tiền.
 
 ## 4. Hỗ trợ
-- Hotline 24/7: 02473001022  
-- Email: hotro@gocheap.vn  
-- Zalo: https://gocheap.vn/zalo
+- [Liên hệ CSKH](../ho-tro/lien-he.md) để kiểm tra hồ sơ và trạng thái xét duyệt.
 - <a href="https://gocheap.vn/quy-tac-ung-xu" target="_blank">Quy tắc ứng xử</a>

@@ -1,6 +1,7 @@
-# Liên hệ hỗ trợ
+# Liên hệ CSKH
 
-- Hotline 24/7: 02473001022 
-- Zalo: https://gocheap.vn/zalo
-- Email: hotro@gocheap.vn  
-- Văn phòng chính: Hà Nội <a href="https://gocheap.vn/map" target="_blank">gocheap.vn/map</a>, TP.HCM <a href="https://gocheap.vn/hcm" target="_blank">gocheap.vn/hcm</a>, Đà Nẵng, Cần Thơ, Hải Phòng  
+- **Hotline GOCheap:** [024 7300 0636](tel:+842473000636)
+- **Zalo:** [GOCheap trên Zalo](https://gocheap.vn/zalo)
+- **Email:** [hotro@gocheap.vn](mailto:hotro@gocheap.vn)
+
+Khi liên hệ về chuyến, chuẩn bị mã chuyến và mô tả ngắn yêu cầu. Nếu có trục trặc trong chuyến đi, xem cách [báo sự cố](bao-su-co.md).

@@ -1,43 +1,69 @@
-site_name: Hướng dẫn sử dụng GOCheap!
-site_url: https://gocheap.vn
-site_description: Cẩm nang hướng dẫn sử dụng GOCheap dành cho đối tác tài xế và khách hàng
+site_name: GOCheap Help Center
+site_url: https://docs.gocheap.vn/
+site_description: Hướng dẫn và hỗ trợ GOCheap dành cho khách hàng, đối tác tài xế và doanh nghiệp.
 theme:
   name: material
-  custom_dir: overrides  # Sử dụng template tùy chỉnh
+  custom_dir: overrides
   palette:
-    primary: purple
-    accent: orange
+    primary: deep purple
+    accent: deep purple
   language: vi
   logo: images/gocheap-logo.png
+  favicon: images/gocheap-logo.png
   features:
     - navigation.tabs
-    - navigation.sections
+    - navigation.top
+    - search.suggest
     - search.highlight
-    - content.code.copy
-extra_javascript:
-  - js/custom.js
+plugins:
+  - search:
+      lang: vi
+markdown_extensions:
+  - attr_list
+  - md_in_html
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
 extra_css:
-  - assets/css/custom.css  # CSS tùy chỉnh cho footer
+  - assets/css/custom.css
 extra:
-  generator: false   # ẩn "Made with Material for MkDocs"
+  generator: false
+not_in_nav: |
+  /gioi-thieu.md
+  /khach-hang/dich-vu.md
+  /khach-hang/cau-hoi-thuong-gap.md
+  /tai-xe/dich-vu.md
+  /tai-xe/van-hoa-gocheap.md
+  /tai-xe/cau-hoi-thuong-gap.md
+  /ho-tro/bao-mat.md
+  /ho-tro/dieu-khoan.md
+validation:
+  links:
+    not_found: warn
+    anchors: warn
 nav:
   - Trang chủ: index.md
-  - Giới thiệu: gioi-thieu.md
-  - Đối tác:
-      - Thủ tục hợp tác: tai-xe/thu-tuc-hop-tac.md
-      - Hợp đồng & Quy định: tai-xe/hop-dong.md
-      - Hướng dẫn sử dụng: tai-xe/huong-dan-su-dung-app.md
-      - Dịch vụ & Chính sách: tai-xe/dich-vu.md
-      - Văn hóa công ty: tai-xe/van-hoa-gocheap.md
-      - Câu hỏi thường gặp: tai-xe/cau-hoi-thuong-gap.md
-  - Khách hàng:
-      - Cài đặt: khach-hang/cai-dat-app.md
-      - Thuê lái xe: khach-hang/thue-tai-xe.md
-      - Thanh toán: khach-hang/thanh-toan.md
-      - Dịch vụ: khach-hang/dich-vu.md
-      - Câu hỏi: khach-hang/cau-hoi-thuong-gap.md
-  - Hỗ trợ:
-      - Liên hệ: ho-tro/lien-he.md
-      - Bảo mật: ho-tro/bao-mat.md
-      - Điều khoản: ho-tro/dieu-khoan.md    
-
+  - Dành cho khách hàng:
+      - Cài đặt và đăng ký: khach-hang/cai-dat-app.md
+      - Đặt tài xế và đặt xe: khach-hang/thue-tai-xe.md
+      - Giá dịch vụ và thanh toán: khach-hang/thanh-toan.md
+      - Hủy chuyến, hoàn tiền: khach-hang/huy-chuyen-hoan-tien.md
+      - Bảo hiểm và xử lý sự cố: khach-hang/bao-hiem-va-su-co.md
+  - Dành cho đối tác tài xế:
+      - Đăng ký và xét duyệt: tai-xe/thu-tuc-hop-tac.md
+      - Hướng dẫn sử dụng DriverX: tai-xe/huong-dan-su-dung-app.md
+      - Quy trình nhận và thực hiện chuyến: tai-xe/nhan-va-thuc-hien-chuyen.md
+      - Ví, doanh thu và hoa hồng: tai-xe/vi-doanh-thu-hoa-hong.md
+      - Chính sách thưởng, phạt: tai-xe/thuong-phat.md
+      - Quy định vận hành: tai-xe/hop-dong.md
+  - Dành cho khách hàng doanh nghiệp:
+      - Đăng ký hợp đồng: doanh-nghiep/dang-ky-hop-dong.md
+      - Đặt xe theo giờ: doanh-nghiep/dat-xe-theo-gio.md
+      - Quản lý đội xe và tài xế: doanh-nghiep/quan-ly-doi-xe-va-tai-xe.md
+      - Thanh toán định kỳ: doanh-nghiep/thanh-toan-dinh-ky.md
+      - Hóa đơn và đối soát: doanh-nghiep/hoa-don-va-doi-soat.md
+  - Trung tâm hỗ trợ:
+      - FAQ: ho-tro/faq.md
+      - Báo sự cố: ho-tro/bao-su-co.md
+      - Liên hệ CSKH: ho-tro/lien-he.md
+      - Tra cứu chính sách: ho-tro/chinh-sach.md

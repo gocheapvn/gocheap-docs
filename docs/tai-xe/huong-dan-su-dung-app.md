@@ -1,4 +1,4 @@
-# Hướng dẫn sử dụng ứng dụng GOCheap DriverX
+# Hướng dẫn sử dụng DriverX
 
 Ứng dụng <a href="https://gocheap.vn/taixe">GOCheap Tai xế VIP ! dành cho đối tác tài xế</a>.
 
@@ -9,31 +9,31 @@
 
 👉 Cài app để bắt đầu trở thành tài xế đối tác GOCheap.
 
-# Cài đặt & Đăng nhập
+## Cài đặt & Đăng nhập
 
-## Onboard
+### Onboard
 - Khi mở app lần đầu ➝ hiện màn hình giới thiệu.
 - Nhấn **Tiếp tục** hoặc **Bỏ qua** để vào đăng nhập.
 
-## Đăng ký
+### Đăng ký
 1. Nhập số điện thoại (+84).
 2. Điền: Họ tên, email (tuỳ chọn), nơi ở, khu vực hoạt động (HN, HCM).
 3. Tải lên **CCCD/CMND**, **Bằng lái xe**, **Lý lịch tư pháp**.
 4. Đọc & đồng ý điều khoản ➝ Đăng ký.
 5. Đợi xét duyệt và thông báo kích hoạt qua Zalo.
 
-## Đăng nhập
+### Đăng nhập
 - Nhập số điện thoại + mật khẩu.
 - Hoặc đăng nhập bằng OTP (qua cuộc gọi nếu quên mật khẩu).
 - Một tài khoản chỉ đăng nhập 1 thiết bị tại một thời điểm.
 
-# Nhận & Thực hiện chuyến
+## Nhận & Thực hiện chuyến
 
-## Điều kiện nhận chuyến
-- Ví cá nhân ≥ **500.000đ**. (với mỗi hạng khác nhau quy định có khác nhau, hạng NEW không yêu cầu số dư tối thiểu)
+### Điều kiện nhận chuyến
+- Kiểm tra yêu cầu về số dư cho hạng tài khoản của bạn trong DriverX.
 - Bật **Trạng thái sẵn sàng** trên app.
 
-## Quy trình
+### Quy trình
 1. Khi có chuyến ➝ hệ thống thông báo (push notification).
 2. Tài xế có **15 giây** để chọn:
    - ✅ **Chấp nhận**
@@ -47,24 +47,21 @@
 - Không thể hủy trong vòng **15 phút trước giờ đón**.
 - Hủy chuyến bắt buộc nhập lý do.
 
-# Ví cá nhân
+## Ví cá nhân
 Ví cá nhân hiển thị số dư để mua chuyến & rút tiền.
 
-## Nạp tiền
+### Nạp tiền
 1. Vào **Ví cá nhân** ➝ chọn **Nạp tiền**.
 2. Chuyển khoản theo số tài khoản/mã QR hiển thị.
-3. Nội dung CK: **NAP [số điện thoại]**.  
-   (Ví dụ: `NAP 0934683998`)
-4. Nạp tối thiểu **500.000đ** để nhận chuyến.
+3. Dùng nội dung chuyển khoản hiển thị trong ứng dụng.
 
-## Rút tiền
+### Rút tiền
 1. Vào **Ví cá nhân** ➝ chọn **Tạo lệnh rút tiền**.
 2. Thêm hoặc chọn tài khoản ngân hàng.
-3. Nhập số tiền muốn rút (ví dụ: nhập `2000` để rút 2.000.000đ).
-4. Lịch rút: ngày **10, 20, 30 hàng tháng**.  
-   (Nếu trùng cuối tuần/lễ ➝ chuyển sang ngày kế tiếp).
+3. Nhập số tiền và kiểm tra số tiền xác nhận trước khi gửi lệnh.
+4. Kiểm tra lịch xử lý lệnh trong DriverX hoặc hỏi [CSKH](../ho-tro/lien-he.md).
 
-# Hồ sơ & Tài khoản
+## Hồ sơ & Tài khoản
 Trong tab **Tài khoản**, tài xế có thể:
 
 - 👤 **Chỉnh sửa hồ sơ**: cập nhật ảnh, họ tên, ngày sinh, email, chỗ ở.
@@ -73,7 +70,7 @@ Trong tab **Tài khoản**, tài xế có thể:
 - 📱 **Thông tin ứng dụng**: số phiên bản, hotline hỗ trợ 24/24.
 - 🚪 **Đăng xuất**.
 
-## Thông báo
+### Thông báo
 Các loại thông báo:
 - 💰 Giao dịch (nạp/rút tiền, số dư).
 - 🚖 Chuyến xe (đã nhận, đã hoàn thành, hủy).
@@ -82,7 +79,7 @@ Các loại thông báo:
 - Thông báo **chưa đọc**: màu xanh.  
 - Thông báo **đã đọc**: màu xám.
 
-# Chuyển lịch (Tạo chuyến cho khách)
+## Chuyển lịch (Tạo chuyến cho khách)
 - Tài xế có thể tự tạo chuyến cho khách hàng.
 - Nhập thông tin:
   - Điểm đón, điểm đến
@@ -91,4 +88,4 @@ Các loại thông báo:
   - Họ tên + SĐT khách
   - Ghi chú (tuỳ chọn)
 - Hệ thống tự tính cước cho khách.
-- Tài xế nhận **10% tiền thu khách** từ chuyến chuyển lịch.
+- Xem điều kiện ghi nhận hoa hồng trong [chính sách hợp tác](https://gocheap.vn/chinh-sach-hop-tac).

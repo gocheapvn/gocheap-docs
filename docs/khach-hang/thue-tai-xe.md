@@ -1,4 +1,6 @@
-# Cách đặt dịch vụ trên GOCheap
+# Đặt tài xế và đặt xe
+
+Bạn có thể đặt tài xế lái xe của mình hoặc chọn dịch vụ có sẵn xe và tài xế. Xem [các dịch vụ dành cho khách hàng](dich-vu.md) trước khi đặt.
 
 ## 1. Đi ngay
 - Nhập **điểm đến**.
@@ -7,7 +9,7 @@
 - Nhấn **Đặt chuyến** ➝ Hệ thống tìm tài xế gần nhất.
 - Theo dõi hành trình trên bản đồ.
 
-📌 Lưu ý: Không thể hủy sau khi tài xế đã bắt đầu di chuyển.
+Nếu cần đổi lịch hoặc hủy, xem [hướng dẫn hủy chuyến và hoàn tiền](huy-chuyen-hoan-tien.md).
 
 ## 2. Đặt lịch
 - Chọn **ngày & giờ đón** mong muốn.

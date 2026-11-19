@@ -1,23 +1,72 @@
-/* ghi đè style footer mặc định */
-.md-footer__inner.custom-footer {
-  background-color: var(--md-primary-fg-color); /* màu tím primary */
-  width: 100%;
-  text-align: center;
-  padding: 1rem 0;
+.md-typeset .help-hero {
+  padding: clamp(1.4rem, 5vw, 3.5rem);
+  margin-bottom: 1.4rem;
+  border: 1px solid #e4d9f6;
+  border-radius: 1rem;
+  background: linear-gradient(120deg, #f2eafa, #fdfaff 75%);
+  color: #2d1943;
 }
 
-/* chữ/link */
-.md-footer__inner.custom-footer p {
+.md-typeset .help-hero h1 {
   margin: 0;
-  font-weight: bold;
-  font-size: 0.9rem;
+  color: inherit;
+  font-size: clamp(1.8rem, 5vw, 3.4rem);
+  font-weight: 750;
+  letter-spacing: -.035em;
 }
 
-.md-footer__inner.custom-footer a {
-  color: white !important;
-  text-decoration: none;
+.md-typeset .help-hero p {
+  margin: .8rem 0 0;
 }
 
-.md-footer__inner.custom-footer a:hover {
+.md-typeset .help-hero .md-button {
+  margin: .2rem .35rem .2rem 0;
+  padding: .45em .8em;
+  border-radius: .5rem;
+}
+
+.md-typeset .help-grid {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: .9rem;
+}
+
+.md-typeset .help-card {
+  padding: 1rem 1.15rem;
+  border: 1px solid #e4d9f6;
+  border-radius: .8rem;
+}
+
+.md-typeset .help-card h2 {
+  margin: 0 0 .6rem;
+  color: #382052;
+  font-size: 1.05rem;
+  font-weight: 700;
+}
+
+.md-typeset .help-card h2 .twemoji {
+  color: var(--md-primary-fg-color);
+}
+
+.md-typeset .help-card ul {
+  margin-block: 0;
+}
+
+.md-typeset .help-card a,
+.custom-footer a {
   text-decoration: underline;
+  text-underline-offset: .15em;
+}
+
+.custom-footer {
+  display: flex;
+  flex-wrap: wrap;
+  gap: .4rem 1.25rem;
+  padding: .75rem .8rem;
+}
+
+@media (max-width: 42em) {
+  .md-typeset .help-grid {
+    grid-template-columns: 1fr;
+  }
 }
