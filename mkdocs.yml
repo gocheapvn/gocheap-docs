@@ -12,7 +12,7 @@ theme:
   logo: images/gocheap-horizontal.png
   icon:
     search: lucide/search
-  favicon: images/gocheap-logo.png
+  favicon: images/gocheap-logo.png?v=3.0
   features:
     - navigation.tabs
     - navigation.top
@@ -32,9 +32,9 @@ markdown_extensions:
           - overrides/.icons
 extra_css:
   - assets/fonts/fonts.css
-  - assets/css/custom.css
+  - assets/css/custom.css?v=3.0
 extra_javascript:
-  - js/custom.js
+  - js/custom.js?v=3.0
 extra:
   generator: false
 not_in_nav: |
