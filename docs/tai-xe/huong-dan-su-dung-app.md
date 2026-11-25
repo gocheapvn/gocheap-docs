@@ -1,91 +1,129 @@
+---
+document_id: TX02
+title: Hướng dẫn sử dụng DriverX
+category: driver
+audience: partner
+visibility: public
+language: vi-VN
+slug: tai-xe/huong-dan-su-dung-app
+version: '1.1'
+status: published
+owner: Driver Experience
+seo_title: Hướng dẫn sử dụng DriverX | Ứng dụng đối tác tài xế GO’Cheap
+meta_description: Hướng dẫn đăng ký, đăng nhập, nhận chuyến, dùng ví và mục Đào tạo trong ứng dụng GO’Cheap DriverX dành cho đối tác tài xế.
+related_documents:
+- TX01
+- TX03
+- TX07
+published_date: '2026-11-20'
+---
+
 # Hướng dẫn sử dụng DriverX
 
-Ứng dụng <a href="https://gocheap.vn/taixe">GO’Cheap Tai xế VIP ! dành cho đối tác tài xế</a>.
+Ứng dụng **GO’Cheap DriverX** dành cho đối tác tài xế. Anh/chị dùng ứng dụng để đăng ký, nhận chuyến, theo dõi thu nhập và học đào tạo.
 
-- Quản lý trạng thái hoạt động, nhận chuyến, hoàn thành chuyến.
-- Nạp/rút tiền nhanh qua ví cá nhân.
-- Xem thống kê doanh thu theo ngày/tuần/tháng.
-- Cập nhật thông báo từ hệ thống.
+- Quản lý trạng thái hoạt động, nhận và hoàn thành chuyến.
+- Nạp, rút tiền qua ví cá nhân.
+- Xem thống kê doanh thu theo ngày, tuần, tháng.
+- Nhận thông báo từ hệ thống.
+- Học và thi trong mục **Đào tạo**.
 
-👉 Cài app để bắt đầu trở thành tài xế đối tác GOCheap.
+## Cài đặt và đăng nhập
 
-## Cài đặt & Đăng nhập
+### Lần đầu mở ứng dụng
 
-### Onboard
-- Khi mở app lần đầu ➝ hiện màn hình giới thiệu.
-- Nhấn **Tiếp tục** hoặc **Bỏ qua** để vào đăng nhập.
+Ứng dụng hiển thị màn hình giới thiệu. Chọn **Tiếp tục** hoặc **Bỏ qua** để vào màn hình đăng nhập.
 
 ### Đăng ký
-1. Nhập số điện thoại (+84).
-2. Điền: Họ tên, email (tuỳ chọn), nơi ở, khu vực hoạt động (HN, HCM).
-3. Tải lên **CCCD/CMND**, **Bằng lái xe**, **Lý lịch tư pháp**.
-4. Đọc & đồng ý điều khoản ➝ Đăng ký.
-5. Đợi xét duyệt và thông báo kích hoạt qua Zalo.
+
+1. Bật định vị GPS và nhập số điện thoại (+84).
+2. Điền họ tên, email (tùy chọn), nơi ở và khu vực hoạt động.
+3. Tạo mật khẩu.
+4. Đọc và đồng ý điều khoản, sau đó gửi đăng ký.
+5. Chờ GO’Cheap duyệt bước đăng ký, sau đó đăng nhập để hoàn thiện hồ sơ và tải ảnh lý lịch tư pháp.
+
+Xem chi tiết tại [Đăng ký và xét duyệt](thu-tuc-hop-tac.md).
 
 ### Đăng nhập
-- Nhập số điện thoại + mật khẩu.
-- Hoặc đăng nhập bằng OTP (qua cuộc gọi nếu quên mật khẩu).
-- Một tài khoản chỉ đăng nhập 1 thiết bị tại một thời điểm.
 
-## Nhận & Thực hiện chuyến
+- Nhập số điện thoại và mật khẩu.
+- Hoặc đăng nhập bằng OTP qua cuộc gọi khi quên mật khẩu.
+- Một tài khoản chỉ đăng nhập trên một thiết bị tại một thời điểm.
+
+## Đào tạo trong ứng dụng
+
+Sau khi hồ sơ được duyệt, mục **Đào tạo** xuất hiện trong phần Cài đặt:
+
+1. Xem hai video bài giảng.
+2. Làm bài thi 25 câu theo Điều khoản, Nội quy, Quy trình và Ứng dụng.
+3. Đạt từ 80% để nhận chứng nhận số.
+4. Gửi chứng nhận qua Zalo [0934 343 141](https://zalo.me/0934343141) để được kích hoạt tài khoản.
+
+Bài thi chỉ mở sau khi anh/chị xem hết video. Xem [Đào tạo tài xế](dao-tao.md) để biết nội dung và cách học.
+
+## Nhận và thực hiện chuyến
 
 ### Điều kiện nhận chuyến
-- Kiểm tra yêu cầu về số dư cho hạng tài khoản của bạn trong DriverX.
-- Bật **Trạng thái sẵn sàng** trên app.
+
+- Kiểm tra yêu cầu về số dư cho hạng tài khoản trong DriverX.
+- Bật **Trạng thái sẵn sàng**.
 
 ### Quy trình
-1. Khi có chuyến ➝ hệ thống thông báo (push notification).
-2. Tài xế có **15 giây** để chọn:
-   - ✅ **Chấp nhận**
-   - ❌ **Bỏ qua**
-3. Liên hệ khách qua số **trung gian** (không hiện số thật).
-4. Nhấn **Di chuyển** khi tới điểm đón.
-5. Nhấn **Bắt đầu chuyến đi** khi khách lên xe.
-6. Sau khi xong ➝ nhấn **Hoàn thành chuyến** + gửi **Báo cáo chuyến**.
 
-📌 Lưu ý:
-- Không thể hủy trong vòng **15 phút trước giờ đón**.
-- Hủy chuyến bắt buộc nhập lý do.
+1. Khi có chuyến, hệ thống gửi thông báo.
+2. Xem điểm đón, giờ đón và dịch vụ trước khi chấp nhận.
+3. Liên hệ khách qua số trung gian trong ứng dụng.
+4. Chọn **Di chuyển** khi tới điểm đón.
+5. Chọn **Bắt đầu chuyến đi** khi khách lên xe.
+6. Khi kết thúc, chọn **Hoàn thành chuyến** và gửi báo cáo chuyến.
+
+Không hủy trong khoảng 15 phút trước giờ đón. Khi buộc phải hủy, nhập lý do trong ứng dụng.
 
 ## Ví cá nhân
-Ví cá nhân hiển thị số dư để mua chuyến & rút tiền.
+
+Ví hiển thị số dư để nhận chuyến và rút tiền.
 
 ### Nạp tiền
-1. Vào **Ví cá nhân** ➝ chọn **Nạp tiền**.
-2. Chuyển khoản theo số tài khoản/mã QR hiển thị.
-3. Dùng nội dung chuyển khoản hiển thị trong ứng dụng.
+
+1. Vào **Ví cá nhân** và chọn **Nạp tiền**.
+2. Chuyển khoản theo số tài khoản hoặc mã QR hiển thị.
+3. Dùng đúng nội dung chuyển khoản trong ứng dụng.
+4. Nạp tối thiểu **500.000đ** để sẵn sàng nhận chuyến.
 
 ### Rút tiền
-1. Vào **Ví cá nhân** ➝ chọn **Tạo lệnh rút tiền**.
-2. Thêm hoặc chọn tài khoản ngân hàng.
-3. Nhập số tiền và kiểm tra số tiền xác nhận trước khi gửi lệnh.
-4. Kiểm tra lịch xử lý lệnh trong DriverX hoặc hỏi [CSKH](../ho-tro/lien-he.md).
 
-## Hồ sơ & Tài khoản
-Trong tab **Tài khoản**, tài xế có thể:
+1. Vào **Ví cá nhân** và chọn **Tạo lệnh rút tiền**.
+2. Chọn hoặc thêm tài khoản ngân hàng.
+3. Nhập số tiền và kiểm tra lại trước khi gửi lệnh.
+4. Theo dõi lịch xử lý trong DriverX.
 
-- 👤 **Chỉnh sửa hồ sơ**: cập nhật ảnh, họ tên, ngày sinh, email, chỗ ở.
-- 🔑 **Đổi mật khẩu**: nhập mật khẩu cũ + mật khẩu mới.
-- 📊 **Thống kê**: xem số chuyến, thu nhập theo ngày/tuần/tháng.
-- 📱 **Thông tin ứng dụng**: số phiên bản, hotline hỗ trợ 24/24.
-- 🚪 **Đăng xuất**.
+## Hồ sơ và tài khoản
+
+Trong tab **Tài khoản**, anh/chị có thể:
+
+- Cập nhật ảnh, họ tên, ngày sinh, email và chỗ ở.
+- Đổi mật khẩu.
+- Xem thống kê số chuyến và thu nhập.
+- Xem phiên bản ứng dụng và tổng đài hỗ trợ.
+- Đăng xuất.
 
 ### Thông báo
-Các loại thông báo:
-- 💰 Giao dịch (nạp/rút tiền, số dư).
-- 🚖 Chuyến xe (đã nhận, đã hoàn thành, hủy).
-- 📢 Hệ thống (cập nhật, bảo trì, khuyến mãi).
 
-- Thông báo **chưa đọc**: màu xanh.  
-- Thông báo **đã đọc**: màu xám.
+Ứng dụng gửi thông báo về giao dịch, chuyến xe và cập nhật hệ thống. Thông báo chưa đọc có màu xanh, đã đọc có màu xám.
 
-## Chuyển lịch (Tạo chuyến cho khách)
-- Tài xế có thể tự tạo chuyến cho khách hàng.
-- Nhập thông tin:
-  - Điểm đón, điểm đến
-  - Thời gian đón
-  - Chiều đi (1 chiều/2 chiều)
-  - Họ tên + SĐT khách
-  - Ghi chú (tuỳ chọn)
+## Chuyển lịch
+
+Anh/chị có thể tạo chuyến cho khách ngay trong ứng dụng:
+
+- Nhập điểm đón, điểm đến và thời gian đón.
+- Chọn một chiều hoặc hai chiều.
+- Nhập họ tên, số điện thoại khách và ghi chú.
 - Hệ thống tự tính cước cho khách.
-- Xem điều kiện ghi nhận hoa hồng trong [chính sách hợp tác](https://gocheap.vn/chinh-sach-hop-tac).
+
+Điều kiện ghi nhận hoa hồng xem tại [chính sách hợp tác](https://gocheap.vn/chinh-sach-hop-tac).
+
+## Hỗ trợ
+
+- Tổng đài [024 7300 0636](tel:+842473000636) (24/7).
+- Zalo [0934 343 141](https://zalo.me/0934343141).
+- [Hướng dẫn gửi yêu cầu hỗ trợ](../ho-tro/lien-he.md).

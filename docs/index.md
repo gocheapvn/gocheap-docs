@@ -1,6 +1,6 @@
 ---
 title: Trang chủ
-meta_description: Trung tâm hướng dẫn GO’Cheap dành cho khách hàng, đối tác tài xế và doanh nghiệp, với các bài về đặt chuyến, thanh toán và hỗ trợ.
+meta_description: "Trung tâm hướng dẫn GO’Cheap dành cho khách hàng, đối tác tài xế và doanh nghiệp: đặt chuyến, thanh toán, đào tạo và hỗ trợ."
 hide:
   - navigation
   - toc
@@ -8,7 +8,11 @@ hide:
 
 <div class="help-hero" markdown>
 
+<p class="help-kicker">Hành Trình Tin Cậy!</p>
+
 # GO’Cheap Help Center
+
+<p>Hướng dẫn đặt chuyến, thanh toán và xử lý sự cố dành cho khách hàng, đối tác tài xế và doanh nghiệp. Đặt trước 30–60 phút, giá hiện rõ trên app.</p>
 
 <button class="help-search" type="button" aria-haspopup="dialog" hidden>
 :lucide-search: Tìm bài hướng dẫn
@@ -42,6 +46,7 @@ hide:
 ## :lucide-car-front: Dành cho đối tác tài xế
 
 - [Đăng ký và xét duyệt](tai-xe/thu-tuc-hop-tac.md)
+- [Đào tạo tài xế](tai-xe/dao-tao.md)
 - [Hướng dẫn sử dụng DriverX](tai-xe/huong-dan-su-dung-app.md)
 - [Quy trình nhận và thực hiện chuyến](tai-xe/nhan-va-thuc-hien-chuyen.md)
 - [Ví, doanh thu và hoa hồng](tai-xe/vi-doanh-thu-hoa-hong.md)

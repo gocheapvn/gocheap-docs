@@ -1,6 +1,6 @@
 # Quản lý đội xe và tài xế
 
-Với lịch phục vụ định kỳ, chỉ định một người đầu mối để gửi kế hoạch và xác nhận thay đổi với GOCheap.
+Với lịch phục vụ định kỳ, chỉ định một người đầu mối để gửi kế hoạch và xác nhận thay đổi với GO’Cheap.
 
 - Gửi lịch, tuyến, địa điểm đón và yêu cầu về xe cho từng ca phục vụ.
 - Đối chiếu thông tin xe, tài xế và phương án thay thế theo thỏa thuận.

@@ -23,9 +23,9 @@ published_date: '2026-11-20'
 
 <span id="lien-he-cskh"></span>
 
-- **Hotline:** [024 7300 0636](tel:+842473000636)
+- **Hotline:** [024 7300 0636](tel:+842473000636) (24/7)
 - **Email:** [hotro@gocheap.vn](mailto:hotro@gocheap.vn)
-- **Zalo:** [GO’Cheap trên Zalo](https://zalo.me/0934343141)
+- **Zalo:** [0934 343 141](https://zalo.me/0934343141)
 
 Khi cần hỗ trợ, khách hàng và đối tác nên chuẩn bị:
 

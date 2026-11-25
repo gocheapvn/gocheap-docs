@@ -11,7 +11,7 @@ theme:
   logo: images/gocheap-horizontal.png
   icon:
     search: lucide/search
-  favicon: images/gocheap-logo.png?v=3.0
+  favicon: images/favicon-gocheap-192.png?v=3.1
   features:
     - navigation.tabs
     - navigation.top
@@ -32,9 +32,9 @@ markdown_extensions:
           - overrides/.icons
 extra_css:
   - assets/fonts/fonts.css
-  - assets/css/custom.css?v=3.0
+  - assets/css/custom.css?v=3.1
 extra_javascript:
-  - js/custom.js?v=3.0
+  - js/custom.js?v=3.1
 extra:
   generator: false
 not_in_nav: |
@@ -60,6 +60,7 @@ nav:
   - Bảo hiểm và xử lý sự cố: khach-hang/bao-hiem-va-su-co.md
 - Dành cho đối tác tài xế:
   - Đăng ký và xét duyệt: tai-xe/thu-tuc-hop-tac.md
+  - Đào tạo tài xế: tai-xe/dao-tao.md
   - Hướng dẫn sử dụng DriverX: tai-xe/huong-dan-su-dung-app.md
   - Quy trình nhận và thực hiện chuyến: tai-xe/nhan-va-thuc-hien-chuyen.md
   - Ví, doanh thu và hoa hồng: tai-xe/vi-doanh-thu-hoa-hong.md

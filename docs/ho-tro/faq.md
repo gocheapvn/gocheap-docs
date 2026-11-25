@@ -16,6 +16,10 @@ Xem [hủy chuyến, hoàn tiền](../khach-hang/huy-chuyen-hoan-tien.md) và ch
 
 Xem [ví, doanh thu và hoa hồng](../tai-xe/vi-doanh-thu-hoa-hong.md).
 
+## Tôi là tài xế mới, học đào tạo và thi ở đâu?
+
+Xem [đào tạo tài xế](../tai-xe/dao-tao.md) để biết ba nhóm kỹ năng, bài thi 25 câu và cách gửi chứng nhận qua Zalo.
+
 ## Doanh nghiệp cần xuất hóa đơn thì chuẩn bị gì?
 
 Xem [hóa đơn và đối soát](../doanh-nghiep/hoa-don-va-doi-soat.md) để chuẩn bị thông tin doanh nghiệp và kỳ hóa đơn.

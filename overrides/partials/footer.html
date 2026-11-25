@@ -1,7 +1,15 @@
 <footer class="md-footer">
-  <nav class="md-grid custom-footer" aria-label="Liên kết hỗ trợ">
-    <a href="https://gocheap.vn/">GO’Cheap Việt Nam</a>
+  <div class="md-grid custom-footer">
+    <div class="custom-footer__brand">
+      <img src="{{ 'images/gocheap-logo.png' | url }}" alt="" width="34" height="34">
+      <span>GO’Cheap Help Center</span>
+      <span class="custom-footer__slogan">Hành Trình Tin Cậy!</span>
+    </div>
+    <a href="https://gocheap.vn/">gocheap.vn</a>
+    <a href="tel:+842473000636">024 7300 0636</a>
+    <a href="https://zalo.me/0934343141">Zalo 0934343141</a>
     <a href="{{ ('ho-tro/lien-he/' if config.use_directory_urls else 'ho-tro/lien-he.html') | url }}">Liên hệ CSKH</a>
     <a href="{{ ('ho-tro/chinh-sach/' if config.use_directory_urls else 'ho-tro/chinh-sach.html') | url }}">Tra cứu chính sách</a>
-  </nav>
+    <p class="custom-footer__legal">CÔNG TY CỔ PHẦN GOCHEAP · Hotline 024 7300 0636 (24/7) · Zalo 0934343141<br>Đặt trước 30–60 phút, giá hiện rõ trên app.</p>
+  </div>
 </footer>

@@ -6,12 +6,11 @@ audience: customer
 visibility: public
 language: vi-VN
 slug: gioi-thieu
-version: '1.0'
+version: '1.1'
 status: published
 owner: Customer Experience
-seo_title: Giới thiệu về GO’Cheap | GO’Cheap
-meta_description: Tìm hiểu các dịch vụ di chuyển của GO’Cheap, cách chọn phương tiện và cách kiểm tra khu vực phục vụ theo từng nhu
-  cầu.
+seo_title: Giới thiệu về GO’Cheap
+meta_description: GO’Cheap là công ty công nghệ xây dựng nền tảng lái xe hộ và đặt xe hợp đồng, đồng thời kinh doanh vận tải hành khách theo hợp đồng.
 related_documents:
 - KH03
 - KH04
@@ -25,30 +24,46 @@ published_date: '2026-11-20'
 <span id="gia-tri-cot-loi"></span>
 <span id="su-menh"></span>
 
-GO’Cheap là nền tảng cung cấp các giải pháp di chuyển và vận tải, kết nối khách hàng với mạng lưới đối tác tài xế.
+GO’Cheap là công ty công nghệ xây dựng nền tảng lái xe hộ và đặt xe hợp đồng, đồng thời là doanh nghiệp kinh doanh vận tải hành khách theo hợp đồng.
+
+Khách đặt trước, tài xế đã xác minh đến đúng hẹn và đưa khách về an toàn.
 
 ## Dịch vụ
 
-1. **GO’Cheap DriverX – Lái xe hộ:** Đối tác tài xế lái chính chiếc xe của khách hàng theo yêu cầu.
-2. **Taxi:** Giải pháp di chuyển bằng xe có tài xế.
-3. **Đưa đón sân bay:** Đưa đón khách theo lịch trình.
-4. **Xe hợp đồng:** Thuê xe từ 4 đến 45 chỗ phục vụ cá nhân, gia đình và doanh nghiệp.
-5. **Xe ghép tiện chuyến:** Kết nối nhu cầu di chuyển có hành trình phù hợp.
-6. **Du lịch và tour:** Hỗ trợ phương tiện và tài xế cho hành trình du lịch.
+1. **Lái xe hộ:** tài xế lái chính chiếc xe của khách, đưa khách và xe về nhà. Đây là dịch vụ cốt lõi.
+2. **Xe sân bay:** đưa đón sân bay Nội Bài và Tân Sơn Nhất. Đặt trước, giá hiện rõ trên app.
+3. **Xe hợp đồng:** xe từ 4 đến 45 chỗ kèm tài xế cho gia đình, đoàn và doanh nghiệp.
 
-GO’Cheap từng triển khai hoặc phục vụ tại Hà Nội, TP.HCM, Đà Nẵng, Hải Phòng, Hạ Long và Cần Thơ. Phạm vi cung cấp thực tế phải được kiểm tra theo từng dịch vụ và thời điểm.
+Dịch vụ mở rộng: BikeFast lái hộ xe máy và lái xe đi đăng kiểm.
 
-## Cam kết dịch vụ
+## Có mặt ở đâu
 
-- Minh bạch thông tin dịch vụ và chi phí trước khi xác nhận.
-- Kết nối khách hàng với đối tác tài xế.
-- Hỗ trợ khách hàng trong quá trình sử dụng dịch vụ.
-- Liên tục cải thiện chất lượng và quy trình.
+- Hà Nội (trụ sở chính).
+- TP.HCM (văn phòng Vincom Đồng Khởi).
+- Phục vụ chủ yếu tại các thành phố lớn và vùng lân cận trên toàn quốc.
 
-Kiểm tra khu vực phục vụ trên ứng dụng hoặc hỏi CSKH trước khi đặt.
+## Cách đặt
+
+- App GO’Cheap hoặc [gocheap.vn](https://gocheap.vn/).
+- Tổng đài [024 7300 0636](tel:+842473000636) (24/7).
+- Zalo [0934 343 141](https://zalo.me/0934343141).
+
+Đặt trước 30–60 phút, giá hiện rõ trên app.
+
+## Điều làm nên GO’Cheap
+
+- Tài xế được xác minh bằng lái và lý lịch tư pháp trước khi nhận chuyến.
+- Theo dõi chuyến đi trực tiếp trên app.
+- Mỗi chuyến lưu thông tin tài xế và thời gian chuyến đi.
+- Đã uống rượu bia thì không lái xe.
+
+## Thông tin pháp lý
+
+CÔNG TY CỔ PHẦN GOCHEAP kinh doanh vận tải hành khách theo hợp đồng.
 
 ## Xem thêm
 
-- [Hướng dẫn đặt tài xế lái xe hộ GO’Cheap DriverX](khach-hang/thue-tai-xe.md)
-- [Hướng dẫn đặt xe đưa đón sân bay](khach-hang/dat-xe-san-bay.md)
-- [Hướng dẫn thuê xe hợp đồng từ 4–45 chỗ](khach-hang/thue-xe-hop-dong.md)
+- [Đặt tài xế lái xe hộ](khach-hang/thue-tai-xe.md)
+- [Đặt xe sân bay](khach-hang/dat-xe-san-bay.md)
+- [Thuê xe hợp đồng từ 4–45 chỗ](khach-hang/thue-xe-hop-dong.md)
+- [Liên hệ CSKH](ho-tro/lien-he.md)
